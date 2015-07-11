@@ -49,8 +49,11 @@ def fetch_member_academic_career(member_id, member_name):
 
 
 def fetch_member_basic_prop(member_id):
-    MEMBER_BASIC_PROP_URL = 'http://www.assembly.go.kr/assm/memPop/memPopup.do?dept_cd=%d'
-    page = requests.get(MEMBER_BASIC_PROP_URL % member_id)
+    url = 'http://www.assembly.go.kr/assm/memPop/memPopup.do'
+    payload = {
+        'dept_cd': str(member_id)
+    }
+    page = requests.get(url, params=payload)
     soup = BeautifulSoup(page.text, 'html.parser')
 
     detail_dl = soup.find('dl', class_='pro_detail')
