@@ -11,23 +11,40 @@ def strip_prop(prop_str):
     return re.sub('[\t\n\r]', '', prop_str.strip())
 
 
-def fetch_member_academic_career(member_id, member_name):
+def query_naver_people_search(query):
     url = 'http://people.search.naver.com/search.naver'
     payload = {
         'ie': 'utf8',
         'where': 'nexearch',
-        'query': '국회의원 %s' % member_name
+        'query': query
     }
     page = requests.get(url, params=payload)
     m = re.search('oAPIResponse\s:(.+?),\ssAPIURL', page.text)
 
-    js_data = json.loads(m.group(1))
-    js_item_list = js_data['data']['result']['itemList']
+    if m is None:
+        return None
 
-    item_length = len(js_item_list)
+    js_data = json.loads(m.group(1))
+    item_list = js_data['data']['result']['itemList']
+    return item_list
+
+
+def fetch_member_academic_career(member_id, member_name):
+    able_querys = ['국회의원 %s' % member_name, '%s 국회의원' % member_name,
+                   '%s 의원' % member_name]
+    item_list = None
+    for query in able_querys:
+        item_list = query_naver_people_search(query)
+        if item_list is not None:
+            break
+
+    if item_list is None:
+        raise Exception('no academic data')
+
+    item_length = len(item_list)
     print('__debug__ member %d has %d result(s)' % (member_id, item_length))
 
-    matched_data = js_item_list[0]
+    matched_data = item_list[0]
     return matched_data['school']
 
 
