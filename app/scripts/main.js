@@ -27,6 +27,9 @@ var classifyField = {
   },
   doctor : {
     lineColor : '#7e3878'
+  },
+  local : {
+
   }
 }
 
@@ -42,14 +45,7 @@ function guid() {
     s4() + '-' + s4() + s4() + s4();
 }
 
-function zoomHandler() {
-  console.log(d3.event.translate,d3.event.scale )
-  d3.select(this).attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
-}
 
-var zoomListener = d3.behavior.zoom()
-  .scaleExtent([0.2, 2])
-  .on("zoom", zoomHandler);
 
 // function for handling zoom event
 
@@ -69,6 +65,7 @@ $(window).ready(function(){
       redefineRaw.name = raw.name;
       redefineRaw.id = i;//guid();
       redefineRaw.party = raw.party;
+      redefineRaw.local = raw.local;
 
       for(var idx in raw.properties)
       {
@@ -157,116 +154,353 @@ $(window).ready(function(){
 
 
 
-    var w = 800,
+    var w = 1200,
       h = 600;
 
+    window.rawData = rawData;
+    window.classifiedDataMap = classifiedDataMap;
     window.nodes = nodes;
     window.links = links;
 
     //draw force
 
+    function zoomHandler() {
+      d3.select(this).attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
+    }
 
+    function zoomed() {
+      container.attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
+    }
+
+    var zoomListener = d3.behavior.zoom()
+      .scaleExtent([0.2, 2.4])
+      .on("zoom", zoomHandler);
 
     var force = d3.layout.force()
       .nodes(nodes)
       .links(links)
-      .size([1200, h])
-      .linkDistance(w/4)
-      .charge(-300)
+      .size([w, h])
+      .friction(0.1)
+      .linkDistance(2000)
+      .chargeDistance(-2000)
+      .charge(-500)
 
-    var rootGroup = d3.select(".container").append("svg:svg")
-      .attr("width", w)
-      .attr("height", h)
-      .append('g')
-      .call(zoomListener);
-
-    var link = rootGroup.selectAll('.link')
-      .data(links)
-      .enter().append('path')
-      .attr('class', 'link')
-      .attr('stroke-width', 1);
+    window.force = force;
 
 
-    var node = rootGroup.append("svg:g")
-      .selectAll("circle")
-      .data(force.nodes())
-      .enter().append("svg:g")
+    var margin = {top: -5, right: -5, bottom: -5, left: -5},
+      width = 960 - margin.left - margin.right,
+      height = 500 - margin.top - margin.bottom;
 
-    node.append('svg:circle')
-      .attr("r", 24)
-      .attr("stroke", '#ffffff')
-      .attr("stroke-width", 2)
-      .attr("class", "circle")
-      .call(force.drag);
+    var zoom = d3.behavior.zoom()
+      .scaleExtent([0.1, 10])
+      .on("zoom", zoomed);
 
-    node.append('svg:text')
-      .attr("class", "label")
-      .text(function(d){
-        return d.name;
-      })
+
+    var svg = d3.select(".container").append("svg")
+      .attr("width", width + margin.left + margin.right)
+      .attr("height", height + margin.top + margin.bottom)
+      .append("g")
+      .attr("transform", "translate(" + margin.left + "," + margin.right + ")")
+      .call(zoom);
+
+    var rect = svg.append("rect")
+      .attr("width", width)
+      .attr("height", height)
+      .style("fill", "#f0f0f0")
+      .style("pointer-events", "all");
+
+
+    var container = svg.append("g");
+
+        var link = container
+          .append('g')
+          .selectAll('.link')
+          .data(links)
+          .enter().append('path')
+          .attr('class', 'link')
+          .attr('stroke-width', 1)
+          .attr('id',function(d){
+            return "link-"+d.source+"-"+ d.target+"-"+ d.name+"-"+ d.type ;
+          });
+
+        var node = container
+          .append('g')
+          .selectAll(".circle")
+          .data(force.nodes())
+          .enter().append("svg:g")
+
+        node.append('svg:circle')
+          .attr("r", 24)
+          .attr("stroke", '#ffffff')
+          .attr("stroke-width", 2)
+          .attr("class", "circle")
+          .attr('id',function(d){
+            return "node-"+d.id;
+           })
+          .call(force.drag)
+          .on('click',function(d){
+              var nodesIds = [];
+              var linkIds = [];
+
+
+              var clicked = $(this).attr('clicked');
+
+
+
+
+              for(var idx in links)
+              {
+                var link = links[idx];
+
+                if(link.source.id == d.id || link.target.id == d.id)
+                {
+
+                  if(clicked==undefined)
+                  {
+                    d3.select(this)
+                      .transition().duration(400)
+                      .attr('r',80)
+                      .attr('stroke','#fdfd96')
+                      .attr('stroke-width',16);
+
+                    container.select("circle[id^='node-"+link.target.id+"']")
+                      .transition().duration(400)
+                      .attr('r',80)
+                      .attr('stroke','#111')
+                      .attr('stroke-width',16);
+
+                    container.select("text[id^='label-"+link.target.id+"']")
+                      .transition().duration(400)
+                      .style("font-size",'500%')
+
+                    container.select("circle[id^='node-"+link.source.id+"']")
+                      .transition().duration(400)
+                      .attr('r',80)
+                      .attr('stroke','#111')
+                      .attr('stroke-width',16);
+
+                    container.select("text[id^='label-"+link.source.id+"']")
+                      .transition().duration(400)
+                      .style("font-size",'500%')
+
+                    container.select("path[id^='link-"+link.source.id+"-"+link.target.id+"']")
+                      .transition().duration(400)
+                      .attr('stroke-width',10)
+
+                    container.select("path[id^='link-"+link.target.id+"-"+link.source.id+"']")
+                      .transition().duration(400)
+                      .attr('stroke-width',10)
+
+                  }
+                  else{
+                    d3.select(this)
+                      .transition().duration(400)
+                      .attr('r',24)
+                      .attr('stroke','#ffffff')
+                      .attr("stroke-width", 2)
+
+                    container.select("circle[id^='node-"+link.target.id+"']")
+                      .transition().duration(400)
+                      .attr('r',24)
+                      .attr('stroke','#ffffff')
+                      .attr("stroke-width", 2)
+
+                    container.select("text[id^='label-"+link.target.id+"']")
+                      .transition().duration(400)
+                      .style("font-size",'75%')
+
+
+                    container.select("circle[id^='node-"+link.source.id+"']")
+                      .transition().duration(400)
+                      .attr('r',24)
+                      .attr('stroke','#ffffff')
+                      .attr("stroke-width", 2)
+
+                    container.select("text[id^='label-"+link.source.id+"']")
+                      .transition().duration(400)
+                      .style("font-size",'75%')
+
+                    container.select("path[id^='link-"+link.source.id+"-"+link.target.id+"']")
+                      .transition().duration(400)
+                      .attr('stroke-width',1)
+
+                    container.select("path[id^='link-"+link.target.id+"-"+link.source.id+"']")
+                      .transition().duration(400)
+                      .attr('stroke-width',1)
+
+
+
+                  }
+
+                }
+              }
+
+
+            if(clicked==undefined)
+            {
+              d3.select(this)
+                .transition().duration(400)
+                .attr('r',80)
+                .attr('stroke','#fdfd96')
+                .attr('stroke-width',16);
+
+
+
+
+              container.select("text[id^='detail-"+d.id+"']")
+                .transition().duration(400)
+                .style("display",'block')
+
+              container.select("text[id^='label-"+d.id+"']")
+                .transition().duration(400)
+                .style("font-size",'400%')
+
+              $(this).attr('clicked',true);
+            }
+            else{
+              d3.select(this)
+                .transition().duration(400)
+                .attr('r',24)
+                .attr('stroke','#ffffff')
+                .attr("stroke-width", 2)
+
+
+              container.select("text[id^='detail-"+d.id+"']")
+                .transition().duration(400)
+                .style("display",'none')
+
+
+              container.select("text[id^='label-"+d.id+"']")
+                .transition().duration(400)
+                .style("font-size",'75%')
+
+              $(this).removeAttr('clicked');
+            }
+
+
+
+            console.log(arguments)
+
+           });
+
+
+        node.append('svg:text')
+          .attr("class", "label")
+          .text(function(d){
+            return d.name;
+          })
+          .attr('id',function(d){
+            return "label-"+d.id;
+          });
+
+        var detail = node.append('svg:text')
+          .attr("class", "detail")
+          .style('font-size',"100%")
+          .style('display','none')
+          .attr('id',function(d){
+            return "detail-"+d.id;
+          });
+
+        detail.append('tspan')
+          .attr('x',0)
+          .attr('y',20)
+          .text(function(d){
+            var detail = "고등학교 : "+d['고등학교']
+
+            return detail;
+          })
+          .attr('id',function(d){
+            return "detail0-"+d.id;
+          });
+
+        detail.append('tspan')
+          .attr('x',0)
+          .attr('y',20*2)
+          .text(function(d){
+            var detail = "대학교 : "+d['대학교']+"\n"
+
+            return detail;
+          })
+          .attr('id',function(d){
+            return "detail1-"+d.id;
+          });
+
+        detail.append('tspan')
+          .attr('x',0)
+          .attr('y',20*3)
+          .text(function(d){
+            var detail = "대학원 : "+d['대학원']+"\n"
+
+            return detail;
+          })
+          .attr('id',function(d){
+            return "detail2-"+d.id;
+          });
+
+
 
 
     force.on('tick', function() {
 
-      node
-        .attr('transform', function(d) { return "translate("+d.x+","+ d.y+")"; })
+          node
+            .attr('transform', function(d) { return "translate("+d.x+","+ d.y+")"; })
 
-      node.selectAll('.circle').style('fill',function(d){
-        return classifyField.party[d.party].color
-      })
+          node.selectAll('.circle').style('fill',function(d){
+            return classifyField.party[d.party].color
+          })
 
 
-      link.attr('d',function(d){
-        var dx = d.target.x - d.source.x,
-          dy = d.target.y - d.source.y,
-          dr = Math.sqrt(dx * dx + dy * dy);
+          link.attr('d',function(d){
+            var dx = d.target.x - d.source.x,
+              dy = d.target.y - d.source.y,
+              dr = Math.sqrt(dx * dx + dy * dy);
 
-        var linkCount = linkCountMap[d.source.id + "," + d.target.id];
-        var idx = 0;
+            var linkCount = linkCountMap[d.source.id + "," + d.target.id];
+            var idx = 0;
 
-        if(linkCount.length > 1)
-        {
-          for(var i = 0 ; i < linkCount.length ; i++)
-          {
-
-            if(linkCount[i] == d.type)
+            if(linkCount.length > 1)
             {
-              idx = i;
-              break;
+              for(var i = 0 ; i < linkCount.length ; i++)
+              {
+
+                if(linkCount[i] == d.type)
+                {
+                  idx = i;
+                  break;
+                }
+              }
             }
-          }
-        }
 
-        dr = dr/(1 + (1/(linkCount.length*2)) * ( idx + 1));
+            dr = dr/(1 + (1/(linkCount.length*2)) * ( idx + 1));
 
-        if(linkCount.length == 1)
-        {
-          return "M" + d.source.x + "," + d.source.y +
-            "L" + d.target.x + "," + d.target.y;
-        }
-        else if(idx%2==0)
-        {
-          return "M" + d.source.x + "," + d.source.y +
-            "A" + dr + "," + dr + " 0 0 1," + d.target.x + "," + d.target.y +
-            "A" + dr + "," + dr + " 0 0 0," + d.source.x + "," + d.source.y;
-        }
-        else{
-          return "M" + d.target.x + "," + d.target.y +
-            "A" + dr + "," + dr + " 0 0 1," + d.source.x + "," + d.source.y +
-            "A" + dr + "," + dr + " 0 0 0," + d.target.x + "," + d.target.y;
-        }
-      })
+            if(linkCount.length == 1)
+            {
+              return "M" + d.source.x + "," + d.source.y +
+                "L" + d.target.x + "," + d.target.y;
+            }
+            else if(idx%2==0)
+            {
+              return "M" + d.source.x + "," + d.source.y +
+                "A" + dr + "," + dr + " 0 0 1," + d.target.x + "," + d.target.y +
+                "A" + dr + "," + dr + " 0 0 0," + d.source.x + "," + d.source.y;
+            }
+            else{
+              return "M" + d.target.x + "," + d.target.y +
+                "A" + dr + "," + dr + " 0 0 1," + d.source.x + "," + d.source.y +
+                "A" + dr + "," + dr + " 0 0 0," + d.target.x + "," + d.target.y;
+            }
+          })
 
 
-      /*
-       link.attr('x1', function(d) {return d.source.x; })
-       .attr('y1', function(d) { return d.source.y; })
-       .attr('x2', function(d) { return d.target.x; })
-       .attr('y2', function(d) { return d.target.y; });
-       */
+            link.attr('x1', function(d) {return d.source.x; })
+           .attr('y1', function(d) { return d.source.y; })
+           .attr('x2', function(d) { return d.target.x; })
+           .attr('y2', function(d) { return d.target.y; });
 
-      link.style('stroke',function(d){ return classifyField[d.type].lineColor})
-    });
+          link.style('stroke',function(d){ return classifyField[d.type].lineColor})
+        });
+
 
     force.start();
 
