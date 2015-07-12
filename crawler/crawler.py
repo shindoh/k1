@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import requests
 import re
 import json
+from time import sleep
 
 
 def strip_prop(prop_str):
@@ -92,6 +93,7 @@ def fetch_all_members():
         }
         members.append(member)
         print('%d done' % len(members))
+        sleep(2)
     return members
 
 if __name__ == '__main__':
