@@ -2,7 +2,8 @@
   "name": "k1",
   "private": true,
   "dependencies": {
-    "bootstrap": "~3.3.5"
+    "bootstrap": "~3.3.5",
+    "d3": "~3.5.6"
   },
   "overrides": {
     "bootstrap": {

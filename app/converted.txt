@@ -1,0 +1,7850 @@
+[{
+		"id" : 9770703,
+		"name" : "강기윤",
+		"email" : "ggotop@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "안전행정위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "창원대학교",
+				"code" : 4011
+			}, {
+				"type" : "초등학교",
+				"name" : "창원상남초등학교",
+				"code" : 1685
+			}, {
+				"type" : "중학교",
+				"name" : "창원남중학교",
+				"code" : 17810
+			}, {
+				"type" : "대학원",
+				"name" : "창원대학교 대학원",
+				"code" : 11315
+			}, {
+				"type" : "대학원",
+				"name" : "중앙대학교 행정대학원",
+				"code" : 11039
+			}, {
+				"type" : "고등학교",
+				"name" : "마산공업고등학교",
+				"code" : 6190
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경남 창원시성산구",
+		"website" : "http://www.강기윤.kr"
+	}, {
+		"id" : 9770275,
+		"name" : "강기정",
+		"email" : "okang@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "정무위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "전남대학교",
+				"code" : 4014
+			}, {
+				"type" : "대학원",
+				"name" : "전남대학교 행정대학원",
+				"code" : 11140
+			}, {
+				"type" : "고등학교",
+				"name" : "대동고등학교",
+				"code" : 4893
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "광주 북구갑",
+		"website" : "http://www.kanggijung.com"
+	}, {
+		"id" : 9770276,
+		"name" : "강길부",
+		"email" : "shinmut@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["미래창조과학방송통신위원회", "정보위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "경원대학교 대학원",
+				"code" : 11180
+			}, {
+				"type" : "대학원",
+				"name" : "서울대학교 환경대학원",
+				"code" : 10995
+			}, {
+				"type" : "대학교",
+				"name" : "성균관대학교",
+				"code" : 4131
+			}, {
+				"type" : "고등학교",
+				"name" : "언양농업고등학교",
+				"code" : 6241
+			}, {
+				"type" : "중학교",
+				"name" : "상북중학교",
+				"code" : 17921
+			}
+		],
+		"party" : "새누리당",
+		"local" : "울산 울주군",
+		"website" : "http://www.uljukang.org"
+	}, {
+		"id" : 9770704,
+		"name" : "강동원",
+		"email" : "525kdw@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국회운영위원회", "국토교통위원회"]
+			}, {
+				"type" : "중학교",
+				"name" : "남원용성중학교",
+				"code" : 17684
+			}, {
+				"type" : "대학교",
+				"name" : "경기대학교",
+				"code" : 4042
+			}, {
+				"type" : "대학원",
+				"name" : "경기대학교 정치전문대학원",
+				"code" : 17190
+			}, {
+				"type" : "초등학교",
+				"name" : "덕과초등학교",
+				"code" : 3676
+			}, {
+				"type" : "고등학교",
+				"name" : "전주상업고등학교",
+				"code" : 5678
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "전북 남원시순창군",
+		"website" : "http://kdwon.co.kr"
+	}, {
+		"id" : 9770512,
+		"name" : "강석호",
+		"email" : "kangsh@na.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국토교통위원회", "국민안전혁신특별위원회"]
+			}, {
+				"type" : "고등학교",
+				"name" : "중동고등학교",
+				"code" : 4562
+			}, {
+				"type" : "대학교",
+				"name" : "한국외국어대학교",
+				"code" : 4143
+			}, {
+				"type" : "중학교",
+				"name" : "중동중학교",
+				"code" : 4563
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경북 영양군영덕군봉화군울진군",
+		"website" : "http://kangsh.kr"
+	}, {
+		"id" : 9770705,
+		"name" : "강석훈",
+		"email" : "ksh@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "농림축산식품해양수산위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "대학원",
+				"name" : "위스콘신매디슨대학교 대학원",
+				"code" : 15234
+			}
+		],
+		"party" : "새누리당",
+		"local" : "서울 서초구을",
+		"website" : "http://www.hoonhoon.or.kr"
+	}, {
+		"id" : 9770706,
+		"name" : "강은희",
+		"email" : "kang119@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["교육문화체육관광위원회", "여성가족위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "효성여자고등학교",
+				"code" : 4807
+			}, {
+				"type" : "대학교",
+				"name" : "경북대학교",
+				"code" : 4015
+			}
+		],
+		"party" : "새누리당",
+		"local" : "비례대표",
+		"website" : "http://kangeunhee.or.kr"
+	}, {
+		"id" : 9770279,
+		"name" : "강창일",
+		"email" : "kangci@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["안전행정위원회", "예산결산특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "도쿄대학 대학원",
+				"code" : 12602
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "고등학교",
+				"name" : "오현고등학교",
+				"code" : 6353
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "제주 제주시갑",
+		"website" : "http://www.kangci.net"
+	}, {
+		"id" : 9770707,
+		"name" : "강창희",
+		"email" : "kangkorea7@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "외교통일위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "육군사관학교",
+				"code" : 4371
+			}, {
+				"type" : "초등학교",
+				"name" : "대흥초등학교",
+				"code" : 2424
+			}, {
+				"type" : "대학원",
+				"name" : "경남대학교 대학원",
+				"code" : 11312
+			}, {
+				"type" : "고등학교",
+				"name" : "대전고등학교",
+				"code" : 4935
+			}, {
+				"type" : "중학교",
+				"name" : "대전중학교",
+				"code" : 13998
+			}
+		],
+		"party" : "새누리당",
+		"local" : "대전 중구",
+		"website" : "http://www.kangkorea.com"
+	}, {
+		"id" : 9770708,
+		"name" : "경대수",
+		"email" : "kyungds@na.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["농림축산식품해양수산위원회", "정치개혁특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "서울대학교 사법대학원",
+				"code" : 10992
+			}
+		],
+		"party" : "새누리당",
+		"local" : "충북 증평군진천군괴산군음성군",
+		"website" : "http://www.kyungdaesoo.or.kr"
+	}, {
+		"id" : 9770679,
+		"name" : "권성동",
+		"email" : "ksdd22@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["환경노동위원회", "정보위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "중앙대학교 대학원",
+				"code" : 10914
+			}, {
+				"type" : "대학교",
+				"name" : "중앙대학교",
+				"code" : 4139
+			}, {
+				"type" : "고등학교",
+				"name" : "강릉명륜고등학교",
+				"code" : 5281
+			}, {
+				"type" : "중학교",
+				"name" : "경포중학교",
+				"code" : 16246
+			}, {
+				"type" : "초등학교",
+				"name" : "강릉중앙초등학교",
+				"code" : 17410
+			}
+		],
+		"party" : "새누리당",
+		"local" : "강원 강릉시",
+		"website" : "http://www.ksdd.net"
+	}, {
+		"id" : 9770710,
+		"name" : "권은희",
+		"email" : "ehkwon1@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "미래창조과학방송통신위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "경북대학교",
+				"code" : 4015
+			}, {
+				"type" : "고등학교",
+				"name" : "원화여자고등학교",
+				"code" : 4794
+			}, {
+				"type" : "대학원",
+				"name" : "서울대학교 공과대학원",
+				"code" : 10989
+			}
+		],
+		"party" : "새누리당",
+		"local" : "대구 북구갑",
+		"website" : "http://www.eunhee.kr"
+	}, {
+		"id" : 9770906,
+		"name" : "권은희",
+		"email" : "kwoneunhee0215@gmail.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국방위원회", "예산결산특별위원회", "국민안전혁신특별위원회"]
+			}, {
+				"type" : "대학교",
+				"name" : "경북대학교",
+				"code" : 4015
+			}, {
+				"type" : "고등학교",
+				"name" : "원화여자고등학교",
+				"code" : 4794
+			}, {
+				"type" : "대학원",
+				"name" : "서울대학교 공과대학원",
+				"code" : 10989
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "광주 광산구을",
+		"website" : "http://blog.daum.net/kwoneunhee0215"
+	}, {
+		"id" : 9770711,
+		"name" : "길정우",
+		"email" : "tong@giljw.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "산업통상자원위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "서울대학교 대학원",
+				"code" : 10898
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "대학원",
+				"name" : "예일대학교 대학원",
+				"code" : 11968
+			}, {
+				"type" : "고등학교",
+				"name" : "경기고등학교",
+				"code" : 4385
+			}
+		],
+		"party" : "새누리당",
+		"local" : "서울 양천구갑",
+		"website" : "http://www.giljw.com"
+	}, {
+		"id" : 9770712,
+		"name" : "김경협",
+		"email" : "ggh000@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "국토교통위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "고려대학교 대학원",
+				"code" : 10883
+			}, {
+				"type" : "대학교",
+				"name" : "성균관대학교",
+				"code" : 4131
+			}, {
+				"type" : "중학교",
+				"name" : "장흥중학교",
+				"code" : 14248
+			}, {
+				"type" : "대학원",
+				"name" : "한국기술교육대학교 대학원",
+				"code" : 18743
+			}, {
+				"type" : "초등학교",
+				"name" : "장흥남초등학교",
+				"code" : 14247
+			}, {
+				"type" : "고등학교",
+				"name" : "부산기계공업고등학교",
+				"code" : 4676
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "경기 부천시원미구갑",
+		"website" : "http://www.kimgh.com"
+	}, {
+		"id" : 9770713,
+		"name" : "김관영",
+		"email" : "kky672@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["기획재정위원회", "예산결산특별위원회"]
+			}, {
+				"type" : "고등학교",
+				"name" : "군산제일고등학교",
+				"code" : 5689
+			}, {
+				"type" : "대학교",
+				"name" : "성균관대학교",
+				"code" : 4131
+			}, {
+				"type" : "대학원",
+				"name" : "서울대학교 행정대학원",
+				"code" : 10994
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "전북 군산시",
+		"website" : "http://www.usekky.com"
+	}, {
+		"id" : 9770523,
+		"name" : "김광림",
+		"email" : "glkim@na.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "기획재정위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "경희대학교 행정대학원",
+				"code" : 10935
+			}, {
+				"type" : "대학원",
+				"name" : "하버드대학교 행정대학원",
+				"code" : 12302
+			}, {
+				"type" : "대학원",
+				"name" : "서울대학교 행정대학원",
+				"code" : 10994
+			}, {
+				"type" : "고등학교",
+				"name" : "안동농림고등학교",
+				"code" : 6033
+			}, {
+				"type" : "대학교",
+				"name" : "영남대학교",
+				"code" : 4077
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경북 안동시",
+		"website" : "http://www.i333.co.kr"
+	}, {
+		"id" : 9770714,
+		"name" : "김광진",
+		"email" : "2030minju@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국방위원회", "정보위원회", "군인권개선및병영문화혁신특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "순천대학교",
+				"code" : 4027
+			}, {
+				"type" : "대학원",
+				"name" : "순천이수중학교",
+				"code" : 15834
+			}, {
+				"type" : "대학원",
+				"name" : "순천용당초등학교",
+				"code" : 18152
+			}, {
+				"type" : "대학원",
+				"name" : "순천고등학교",
+				"code" : 5799
+			}, {
+				"type" : "대학원",
+				"name" : "순천대학교 대학원",
+				"code" : 11279
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "비례대표",
+		"website" : "http://bluepaper815.kr"
+	}, {
+		"id" : 9770716,
+		"name" : "김기선",
+		"email" : null,
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["보건복지위원회", "중동호흡기증후군대책특별위원회"]
+			}, {
+				"type" : "중학교",
+				"name" : "원주중학교",
+				"code" : 14198
+			}, {
+				"type" : "고등학교",
+				"name" : "휘문고등학교",
+				"code" : 4610
+			}, {
+				"type" : "대학교",
+				"name" : "경희대학교",
+				"code" : 4112
+			}
+		],
+		"party" : "새누리당",
+		"local" : "강원 원주시갑",
+		"website" : "http://www.facebook.com/kksun290"
+	}, {
+		"id" : 9770717,
+		"name" : "김기식",
+		"email" : "dreamkisik@gmail.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["정무위원회", "정치개혁특별위원회"]
+			}, {
+				"type" : "고등학교",
+				"name" : "경성고등학교",
+				"code" : 4403
+			}, {
+				"type" : "중학교",
+				"name" : "경성중학교",
+				"code" : 13180
+			}, {
+				"type" : "초등학교",
+				"name" : "서교초등학교",
+				"code" : 3030
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "비례대표",
+		"website" : "http://www.dreamk.kr"
+	}, {
+		"id" : 9770718,
+		"name" : "김기준",
+		"email" : "coopsol@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "정무위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "고등학교",
+				"name" : "경기고등학교",
+				"code" : 4385
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "비례대표",
+		"website" : "http://gijuhn.com"
+	}, {
+		"id" : 9770719,
+		"name" : "김도읍",
+		"email" : "ldek3525@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국회운영위원회", "법제사법위원회", "예산결산특별위원회"]
+			}, {
+				"type" : "고등학교",
+				"name" : "부산동고등학교",
+				"code" : 4681
+			}, {
+				"type" : "대학교",
+				"name" : "동아대학교",
+				"code" : 4104
+			}
+		],
+		"party" : "새누리당",
+		"local" : "부산 북구강서구을",
+		"website" : "http://www.김도읍.com"
+	}, {
+		"id" : 9770720,
+		"name" : "김동완",
+		"email" : "dowakim@daum.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["산업통상자원위원회", "예산결산특별위원회", "국민안전혁신특별위원회"]
+			}, {
+				"type" : "대학교",
+				"name" : "성균관대학교",
+				"code" : 4131
+			}, {
+				"type" : "초등학교",
+				"name" : "우강초등학교",
+				"code" : 20812
+			}, {
+				"type" : "대학원",
+				"name" : "서울대학교 행정대학원",
+				"code" : 10994
+			}, {
+				"type" : "대학원",
+				"name" : "인디애나대학교 대학원",
+				"code" : 12061
+			}, {
+				"type" : "중학교",
+				"name" : "합덕중학교",
+				"code" : 19225
+			}, {
+				"type" : "고등학교",
+				"name" : "제물포고등학교",
+				"code" : 4861
+			}
+		],
+		"party" : "새누리당",
+		"local" : "충남 당진시",
+		"website" : "http://dowakim.net"
+	}, {
+		"id" : 9770295,
+		"name" : "김동철",
+		"email" : "kdc2000@na.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "산업통상자원위원회"
+			}, {
+				"type" : "고등학교",
+				"name" : "광주제일고등학교",
+				"code" : 4884
+			}, {
+				"type" : "중학교",
+				"name" : "북성중학교",
+				"code" : 13352
+			}, {
+				"type" : "초등학교",
+				"name" : "송정서초등학교",
+				"code" : 2140
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "광주 광산구갑",
+		"website" : "http://www.kdc2000.com"
+	}, {
+		"id" : 9770721,
+		"name" : "김명연",
+		"email" : "my733@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국회운영위원회", "보건복지위원회", "여성가족위원회", "국민안전혁신특별위원회", "정치개혁특별위원회", "중동호흡기증후군대책특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "한양대학교 행정자치대학원",
+				"code" : 11054
+			}, {
+				"type" : "대학원",
+				"name" : "건국대학교",
+				"code" : 4111
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경기 안산시단원구갑",
+		"website" : "http://www.vitamin21.or.kr"
+	}, {
+		"id" : 9770895,
+		"name" : "김무성",
+		"email" : "moosung4u@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "농림축산식품해양수산위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "한양대학교",
+				"code" : 4145
+			}, {
+				"type" : "고등학교",
+				"name" : "중동고등학교",
+				"code" : 4562
+			}, {
+				"type" : "대학교",
+				"name" : "부경대학교",
+				"code" : 4017
+			}
+		],
+		"party" : "새누리당",
+		"local" : "부산 영도구",
+		"website" : "http://mskim.co.kr"
+	}, {
+		"id" : 9770723,
+		"name" : "김민기",
+		"email" : "kimminki@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["안전행정위원회", "국민안전혁신특별위원회"]
+			}, {
+				"type" : "초등학교",
+				"name" : "기흥초등학교",
+				"code" : 483
+			}, {
+				"type" : "대학교",
+				"name" : "고려대학교",
+				"code" : 4113
+			}, {
+				"type" : "고등학교",
+				"name" : "유신고등학교",
+				"code" : 5173
+			}, {
+				"type" : "중학교",
+				"name" : "신갈중학교",
+				"code" : 15875
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "경기 용인시을",
+		"website" : "http://www.kimminki.co.kr"
+	}, {
+		"id" : 9770724,
+		"name" : "김상민",
+		"email" : "v2030net@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["정무위원회", "예산결산특별위원회"]
+			}, {
+				"type" : "대학교",
+				"name" : "아주대학교",
+				"code" : 4054
+			}
+		],
+		"party" : "새누리당",
+		"local" : "비례대표",
+		"website" : "http://www.v2030.net"
+	}, {
+		"id" : 9770725,
+		"name" : "김상훈",
+		"email" : "kshdg11@gmail.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["산업통상자원위원회", "정치개혁특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "오리건대학교 대학원",
+				"code" : 11973
+			}, {
+				"type" : "대학원",
+				"name" : "서울대학교 행정대학원",
+				"code" : 10994
+			}, {
+				"type" : "대학교",
+				"name" : "영남대학교",
+				"code" : 4077
+			}, {
+				"type" : "고등학교",
+				"name" : "대건고등학교",
+				"code" : 4764
+			}
+		],
+		"party" : "새누리당",
+		"local" : "대구 서구",
+		"website" : "http://kimsh.or.kr"
+	}, {
+		"id" : 9770527,
+		"name" : "김상희",
+		"email" : "shk@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국토교통위원회", "예산결산특별위원회", "윤리특별위원회", "정치개혁특별위원회", "중동호흡기증후군대책특별위원회"]
+			}, {
+				"type" : "대학교",
+				"name" : "이화여자대학교",
+				"code" : 4137
+			}, {
+				"type" : "고등학교",
+				"name" : "공주대학교사범대학부설고등학교",
+				"code" : 5464
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "경기 부천시소사구",
+		"website" : "http://cleankim.kr/"
+	}, {
+		"id" : 9770302,
+		"name" : "김성곤",
+		"email" : "sgkim@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "외교통일위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "고려대학교",
+				"code" : 4113
+			}, {
+				"type" : "고등학교",
+				"name" : "경기고등학교",
+				"code" : 4385
+			}, {
+				"type" : "대학원",
+				"name" : "템플대학교 대학원",
+				"code" : 12225
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "전남 여수시갑",
+		"website" : "http://www.kimsg.net"
+	}, {
+		"id" : 9770726,
+		"name" : "김성주",
+		"email" : "ksj2514327@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "보건복지위원회"
+			}, {
+				"type" : "고등학교",
+				"name" : "전주고등학교",
+				"code" : 5674
+			}, {
+				"type" : "초등학교",
+				"name" : "전주풍남초등학교",
+				"code" : 3939
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "중학교",
+				"name" : "전라중학교",
+				"code" : 15078
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "전북 전주시덕진구",
+		"website" : "http://www.sungju.info"
+	}, {
+		"id" : 9770727,
+		"name" : "김성찬",
+		"email" : "ksc2385@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "국방위원회"
+			}, {
+				"type" : "중학교",
+				"name" : "진해중학교",
+				"code" : 7431
+			}, {
+				"type" : "대학교",
+				"name" : "영국 국방대학교",
+				"code" : 14958
+			}, {
+				"type" : "초등학교",
+				"name" : "대야초등학교",
+				"code" : 1370
+			}, {
+				"type" : "대학교",
+				"name" : "해군사관학교",
+				"code" : 4366
+			}, {
+				"type" : "고등학교",
+				"name" : "진해고등학교",
+				"code" : 6285
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경남 창원시진해구",
+		"website" : "http://blog.naver.com/ksc2385"
+	}, {
+		"id" : 9770532,
+		"name" : "김성태",
+		"email" : "kst0331@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국토교통위원회", "예산결산특별위원회"]
+			}, {
+				"type" : "대학교",
+				"name" : "강남대학교",
+				"code" : 4041
+			}, {
+				"type" : "고등학교",
+				"name" : "진주기계공업고등학교",
+				"code" : 6281
+			}, {
+				"type" : "대학원",
+				"name" : "한양대학교 행정대학원",
+				"code" : 17728
+			}, {
+				"type" : "초등학교",
+				"name" : "중안초등학교",
+				"code" : 1646
+			}, {
+				"type" : "중학교",
+				"name" : "진주중학교",
+				"code" : 7424
+			}
+		],
+		"party" : "새누리당",
+		"local" : "서울 강서구을",
+		"website" : "http://www.winkst.org"
+	}, {
+		"id" : 9770534,
+		"name" : "김세연",
+		"email" : "kim.se.yeon@na.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "외교통일위원회"
+			}, {
+				"type" : "중학교",
+				"name" : "안락중학교",
+				"code" : 17922
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "고등학교",
+				"name" : "금정고등학교",
+				"code" : 4628
+			}, {
+				"type" : "초등학교",
+				"name" : "동래초등학교",
+				"code" : 2597
+			}
+		],
+		"party" : "새누리당",
+		"local" : "부산 금정구",
+		"website" : "http://www.ksy.or.kr"
+	}, {
+		"id" : 9770728,
+		"name" : "김승남",
+		"email" : "snk0411@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "농림축산식품해양수산위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "전남고등학교",
+				"code" : 4914
+			}, {
+				"type" : "대학원",
+				"name" : "전남대학교",
+				"code" : 4014
+			}, {
+				"type" : "대학원",
+				"name" : "전남대학교 행정대학원",
+				"code" : 11140
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "전남 고흥군보성군",
+		"website" : "http://www.snk21.com"
+	}, {
+		"id" : 9770537,
+		"name" : "김영록",
+		"email" : "camp8866@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["기획재정위원회", "예산결산특별위원회"]
+			}, {
+				"type" : "고등학교",
+				"name" : "광주제일고등학교",
+				"code" : 4884
+			}, {
+				"type" : "대학교",
+				"name" : "건국대학교",
+				"code" : 4111
+			}, {
+				"type" : "중학교",
+				"name" : "광주서중학교",
+				"code" : 4879
+			}, {
+				"type" : "대학원",
+				"name" : "시러큐스대학교 맥스웰행정대학원",
+				"code" : 11906
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "전남 해남군완도군진도군",
+		"website" : "http://www.kyr.pe.kr"
+	}, {
+		"id" : 9770538,
+		"name" : "김영우",
+		"email" : "ywkim@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "외교통일위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "고려대학교 대학원",
+				"code" : 10883
+			}, {
+				"type" : "중학교",
+				"name" : "경희중학교",
+				"code" : 13052
+			}, {
+				"type" : "고등학교",
+				"name" : "경희고등학교",
+				"code" : 4407
+			}, {
+				"type" : "대학교",
+				"name" : "고려대학교",
+				"code" : 4113
+			}, {
+				"type" : "대학원",
+				"name" : "성균관대학교국정관리대학원",
+				"code" : 15215
+			}, {
+				"type" : "초등학교",
+				"name" : "포천초등학교",
+				"code" : 1207
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경기 포천시연천군",
+		"website" : "http://www.ywkim.co.kr"
+	}, {
+		"id" : 9770729,
+		"name" : "김영주",
+		"email" : "joojoo2012@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "환경노동위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "서강대학교경제대학원",
+				"code" : 10981
+			}, {
+				"type" : "대학교",
+				"name" : "한국방송통신대학교",
+				"code" : 4372
+			}, {
+				"type" : "고등학교",
+				"name" : "무학여자고등학교",
+				"code" : 13381
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "서울 영등포구갑",
+		"website" : "http://www.youngjoo.kr"
+	}, {
+		"id" : 9770684,
+		"name" : "김영환",
+		"email" : "digitalmr@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["정무위원회", "중동호흡기증후군대책특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "연세대학교 대학원",
+				"code" : 10910
+			}, {
+				"type" : "대학교",
+				"name" : "연세대학교",
+				"code" : 4136
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "경기 안산시상록구을",
+		"website" : "http://www.kyh21.net"
+	}, {
+		"id" : 9770910,
+		"name" : "김용남",
+		"email" : "yn9072@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["환경노동위원회", "예산결산특별위원회", "군인권개선및병영문화혁신특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "고려대학교 대학원",
+				"code" : 10883
+			}, {
+				"type" : "대학원",
+				"name" : "수원중학교",
+				"code" : 7228
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "고등학교",
+				"name" : "수원고등학교",
+				"code" : 5101
+			}, {
+				"type" : "초등학교",
+				"name" : "영화초등학교",
+				"code" : 975
+			}, {
+				"type" : "초등학교",
+				"name" : "화홍초등학교",
+				"code" : 1265
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경기 수원시병",
+		"website" : "http://kimyongnam.com/"
+	}, {
+		"id" : 9770731,
+		"name" : "김용익",
+		"email" : "yikim614@na.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["보건복지위원회", "중동호흡기증후군대책특별위원회"]
+			}, {
+				"type" : "고등학교",
+				"name" : "서울고등학교",
+				"code" : 12971
+			}, {
+				"type" : "대학원",
+				"name" : "서울대학교 대학원",
+				"code" : 10898
+			}, {
+				"type" : "대학원",
+				"name" : "리즈대학교 대학원",
+				"code" : 12416
+			}, {
+				"type" : "대학원",
+				"name" : "서울대학교 보건대학원",
+				"code" : 10991
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "비례대표",
+		"website" : "http://yikim.tistory.com"
+	}, {
+		"id" : 9770542,
+		"name" : "김용태",
+		"email" : "YTN@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "정무위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "고등학교",
+				"name" : "대전고등학교",
+				"code" : 4935
+			}
+		],
+		"party" : "새누리당",
+		"local" : "서울 양천구을",
+		"website" : "http://www.YTNetwork.or.kr"
+	}, {
+		"id" : 9770309,
+		"name" : "김우남",
+		"email" : "wnkim@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "농림축산식품해양수산위원회"
+			}, {
+				"type" : "초등학교",
+				"name" : "평대초등학교",
+				"code" : 17940
+			}, {
+				"type" : "대학교",
+				"name" : "제주대학교",
+				"code" : 4031
+			}, {
+				"type" : "고등학교",
+				"name" : "세화고등학교",
+				"code" : 6349
+			}, {
+				"type" : "중학교",
+				"name" : "세화중학교",
+				"code" : 17939
+			}, {
+				"type" : "대학원",
+				"name" : "경희대학교 대학원",
+				"code" : 10882
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "제주 제주시을",
+		"website" : "http://www.wnkim.or.kr"
+	}, {
+		"id" : 9770732,
+		"name" : "김윤덕",
+		"email" : "ydkim22@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국토교통위원회", "정치개혁특별위원회"]
+			}, {
+				"type" : "고등학교",
+				"name" : "동암고등학교",
+				"code" : 5605
+			}, {
+				"type" : "대학교",
+				"name" : "전북대학교",
+				"code" : 4030
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "전북 전주시완산구갑",
+		"website" : "http://www.wansan.co.kr"
+	}, {
+		"id" : 9770544,
+		"name" : "김을동",
+		"email" : "euldong@na.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "정무위원회"
+			}, {
+				"type" : "고등학교",
+				"name" : "풍문여자고등학교",
+				"code" : 4584
+			}, {
+				"type" : "대학원",
+				"name" : "고려대학교 자연자원대학원",
+				"code" : 10941
+			}, {
+				"type" : "대학교",
+				"name" : "중앙대학교",
+				"code" : 4139
+			}, {
+				"type" : "중학교",
+				"name" : "풍문여자중학교",
+				"code" : 13135
+			}, {
+				"type" : "초등학교",
+				"name" : "재동초등학교",
+				"code" : 3246
+			}
+		],
+		"party" : "새누리당",
+		"local" : "서울 송파구병",
+		"website" : "http://blog.naver.com/ked0905"
+	}, {
+		"id" : 9770733,
+		"name" : "김장실",
+		"email" : "jangsilk@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "안전행정위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "하와이대학교 대학원",
+				"code" : 12306
+			}, {
+				"type" : "대학원",
+				"name" : "서울대학교 행정대학원",
+				"code" : 10994
+			}, {
+				"type" : "대학교",
+				"name" : "영남대학교",
+				"code" : 4077
+			}, {
+				"type" : "고등학교",
+				"name" : "경남공업고등학교",
+				"code" : 4616
+			}
+		],
+		"party" : "새누리당",
+		"local" : "비례대표",
+		"website" : "http://jangsilk.kr"
+	}, {
+		"id" : 9770310,
+		"name" : "김재경",
+		"email" : "kjg7942@jinjucity.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["법제사법위원회", "예산결산특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "서울대학교 대학원",
+				"code" : 10898
+			}, {
+				"type" : "대학교",
+				"name" : "경상대학교",
+				"code" : 4010
+			}, {
+				"type" : "고등학교",
+				"name" : "진주고등학교",
+				"code" : 6279
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경남 진주시을",
+		"website" : "http://www.youngjinju.co.kr"
+	}, {
+		"id" : 9770735,
+		"name" : "김재원",
+		"email" : "2020jwk@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "보건복지위원회"
+			}, {
+				"type" : "고등학교",
+				"name" : "심인고등학교",
+				"code" : 4787
+			}, {
+				"type" : "대학원",
+				"name" : "서울대학교 행정대학원",
+				"code" : 10994
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경북 군위군의성군청송군",
+		"website" : "http://www.kimjaewon.or.kr"
+	}, {
+		"id" : 9770312,
+		"name" : "김재윤",
+		"email" : "kjy1@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "농림축산식품해양수산위원회"
+			}, {
+				"type" : "고등학교",
+				"name" : "서귀포고등학교",
+				"code" : 16353
+			}, {
+				"type" : "중학교",
+				"name" : "효돈중학교",
+				"code" : 17945
+			}, {
+				"type" : "대학원",
+				"name" : "중앙대학교 대학원",
+				"code" : 10914
+			}, {
+				"type" : "초등학교",
+				"name" : "효돈초등학교",
+				"code" : 17944
+			}, {
+				"type" : "대학원",
+				"name" : "명지대학교 대학원",
+				"code" : 10891
+			}, {
+				"type" : "대학원",
+				"name" : "국민대학교정치대학원",
+				"code" : 10953
+			}, {
+				"type" : "대학교",
+				"name" : "우석대학교",
+				"code" : 4159
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "제주 서귀포시",
+		"website" : "http://www.kimjaeyun.com"
+	}, {
+		"id" : 9770736,
+		"name" : "김정록",
+		"email" : null,
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "보건복지위원회"
+			}, {
+				"type" : "초등학교",
+				"name" : "전주비전대학",
+				"code" : 14932
+			}, {
+				"type" : "고등학교",
+				"name" : "숭일고등학교",
+				"code" : 4911
+			}
+		],
+		"party" : "새누리당",
+		"local" : "비례대표",
+		"website" : null
+	}, {
+		"id" : 9770316,
+		"name" : "김정훈",
+		"email" : "kjh302@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "정무위원회"
+			}, {
+				"type" : "고등학교",
+				"name" : "부산고등학교",
+				"code" : 4671
+			}, {
+				"type" : "대학교",
+				"name" : "한양대학교",
+				"code" : 4145
+			}
+		],
+		"party" : "새누리당",
+		"local" : "부산 남구갑",
+		"website" : "http://www.namgu21.com"
+	}, {
+		"id" : 9770737,
+		"name" : "김제남",
+		"email" : "jnkim517@gmail.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["산업통상자원위원회", "여성가족위원회"]
+			}, {
+				"type" : "대학교",
+				"name" : "덕성여자대학교",
+				"code" : 4119
+			}
+		],
+		"party" : "정의당",
+		"local" : "비례대표",
+		"website" : "http://www.jenam.org"
+	}, {
+		"id" : 9770915,
+		"name" : "김제식",
+		"email" : "kimjesik0710@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국회운영위원회", "보건복지위원회", "예산결산특별위원회"]
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "고등학교",
+				"name" : "제물포고등학교",
+				"code" : 4861
+			}
+		],
+		"party" : "새누리당",
+		"local" : "충남 서산시태안군",
+		"website" : "http://www.facebook.com/kimjesik"
+	}, {
+		"id" : 9770738,
+		"name" : "김종태",
+		"email" : "kimjt2012@na.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["농림축산식품해양수산위원회", "군인권개선및병영문화혁신특별위원회"]
+			}, {
+				"type" : "고등학교",
+				"name" : "상주고등학교",
+				"code" : 5994
+			}, {
+				"type" : "대학교",
+				"name" : "한국방송통신대학교",
+				"code" : 4372
+			}, {
+				"type" : "대학원",
+				"name" : "수원대학교 대학원",
+				"code" : 11181
+			}, {
+				"type" : "대학원",
+				"name" : "동국대학교 대학원",
+				"code" : 10889
+			}, {
+				"type" : "대학교",
+				"name" : "육군3사관학교",
+				"code" : 4367
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경북 상주시",
+		"website" : "http://www.kjt3600.kr"
+	}, {
+		"id" : 9770739,
+		"name" : "김종훈",
+		"email" : null,
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "산업통상자원위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "경북대학교 사범대학 부설중학교",
+				"code" : 13331
+			}, {
+				"type" : "대학교",
+				"name" : "연세대학교",
+				"code" : 4136
+			}, {
+				"type" : "고등학교",
+				"name" : "경북대학교 사범대학 부속고등학교",
+				"code" : 4743
+			}
+		],
+		"party" : "새누리당",
+		"local" : "서울 강남구을",
+		"website" : null
+	}, {
+		"id" : 9770740,
+		"name" : "김진태",
+		"email" : "jtkim1013@na.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "법제사법위원회"
+			}, {
+				"type" : "초등학교",
+				"name" : "춘천교육대학교 부설초등학교",
+				"code" : 28
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "중학교",
+				"name" : "소양중학교",
+				"code" : 17739
+			}, {
+				"type" : "고등학교",
+				"name" : "성수고등학교",
+				"code" : 5304
+			}
+		],
+		"party" : "새누리당",
+		"local" : "강원 춘천시",
+		"website" : null
+	}, {
+		"id" : 9770320,
+		"name" : "김춘진",
+		"email" : "kimcj@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["보건복지위원회", "중동호흡기증후군대책특별위원회"]
+			}, {
+				"type" : "대학교",
+				"name" : "경희대학교",
+				"code" : 4112
+			}, {
+				"type" : "중학교",
+				"name" : "부안중학교",
+				"code" : 21185
+			}, {
+				"type" : "고등학교",
+				"name" : "전주고등학교",
+				"code" : 5674
+			}, {
+				"type" : "대학원",
+				"name" : "경희대학교 대학원",
+				"code" : 10882
+			}, {
+				"type" : "초등학교",
+				"name" : "우덕초등학교",
+				"code" : 3828
+			}, {
+				"type" : "대학원",
+				"name" : "인제대학교 대학원",
+				"code" : 11314
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "전북 고창군부안군",
+		"website" : "http://www.cjkorea.org"
+	}, {
+		"id" : 9770741,
+		"name" : "김태년",
+		"email" : "ktn0320@daum.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["교육문화체육관광위원회", "정치개혁특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "경희대학교 행정대학원",
+				"code" : 10935
+			}, {
+				"type" : "고등학교",
+				"name" : "순천고등학교",
+				"code" : 5799
+			}, {
+				"type" : "대학교",
+				"name" : "경희대학교",
+				"code" : 4112
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "경기 성남시수정구",
+		"website" : "http://www.ktn21.com"
+	}, {
+		"id" : 9770550,
+		"name" : "김태원",
+		"email" : "ktw24@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국토교통위원회", "국민안전혁신특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "연세대학교 행정대학원",
+				"code" : 11025
+			}, {
+				"type" : "대학교",
+				"name" : "동국대학교",
+				"code" : 4120
+			}, {
+				"type" : "고등학교",
+				"name" : "대전고등학교",
+				"code" : 4935
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경기 고양시덕양구을",
+		"website" : "http://www.ktw.or.kr"
+	}, {
+		"id" : 9770698,
+		"name" : "김태호",
+		"email" : "taehois@gmail.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "외교통일위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "서울대학교 대학원",
+				"code" : 10898
+			}, {
+				"type" : "고등학교",
+				"name" : "거창농림고등학교",
+				"code" : 6137
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "중학교",
+				"name" : "가조중학교",
+				"code" : 16045
+			}, {
+				"type" : "초등학교",
+				"name" : "가조초등학교",
+				"code" : 1287
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경남 김해시을",
+		"website" : "http://www.taehois.com"
+	}, {
+		"id" : 9770323,
+		"name" : "김태환",
+		"email" : "kimtw@na.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "정무위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "서울대학교 대학원",
+				"code" : 10898
+			}, {
+				"type" : "대학원",
+				"name" : "연세대학교 행정대학원",
+				"code" : 11025
+			}, {
+				"type" : "대학교",
+				"name" : "연세대학교",
+				"code" : 4136
+			}, {
+				"type" : "고등학교",
+				"name" : "경복고등학교",
+				"code" : 4399
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경북 구미시을",
+		"website" : "http://www.kimtw.co.kr"
+	}, {
+		"id" : 9770742,
+		"name" : "김태흠",
+		"email" : "ktheum@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "기획재정위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "서강대학교 공공정책대학원",
+				"code" : 10983
+			}, {
+				"type" : "대학교",
+				"name" : "건국대학교",
+				"code" : 4111
+			}, {
+				"type" : "고등학교",
+				"name" : "공주고등학교",
+				"code" : 5461
+			}
+		],
+		"party" : "새누리당",
+		"local" : "충남 보령시서천군",
+		"website" : "http://www.kimtaeheum.com"
+	}, {
+		"id" : 9770670,
+		"name" : "김학용",
+		"email" : "ansung@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "교육문화체육관광위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "중앙대학교",
+				"code" : 4139
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경기 안성시",
+		"website" : "http://www.ansung365.com"
+	}, {
+		"id" : 9770743,
+		"name" : "김한길",
+		"email" : null,
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "외교통일위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "건국대학교",
+				"code" : 4111
+			}, {
+				"type" : "고등학교",
+				"name" : "이화여자대학교사범대학부속고등학교",
+				"code" : 4538
+			}, {
+				"type" : "중학교",
+				"name" : "대광중학교",
+				"code" : 14452
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "서울 광진구갑",
+		"website" : "http://www.hangillo.net"
+	}, {
+		"id" : 9770744,
+		"name" : "김한표",
+		"email" : "khpgeoje@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["산업통상자원위원회", "예산결산특별위원회", "국민안전혁신특별위원회"]
+			}, {
+				"type" : "고등학교",
+				"name" : "동아고등학교",
+				"code" : 4658
+			}, {
+				"type" : "대학원",
+				"name" : "연세대학교 행정대학원",
+				"code" : 11025
+			}, {
+				"type" : "대학원",
+				"name" : "한국외국어대학교 대학원",
+				"code" : 10917
+			}, {
+				"type" : "중학교",
+				"name" : "장목중학교",
+				"code" : 18134
+			}, {
+				"type" : "초등학교",
+				"name" : "장목초등학교",
+				"code" : 1625
+			}, {
+				"type" : "대학교",
+				"name" : "한국외국어대학교",
+				"code" : 4143
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경남 거제시",
+		"website" : "http://www.hanpyo.org"
+	}, {
+		"id" : 9770745,
+		"name" : "김현",
+		"email" : "yesokkh@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "외교통일위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "한양대학교",
+				"code" : 4145
+			}, {
+				"type" : "중학교",
+				"name" : "강릉여자중학교",
+				"code" : 14365
+			}, {
+				"type" : "고등학교",
+				"name" : "강릉여자고등학교",
+				"code" : 5250
+			}, {
+				"type" : "초등학교",
+				"name" : "옥천초등학교",
+				"code" : 228
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "비례대표",
+		"website" : "http://yesokkh.blog.me"
+	}, {
+		"id" : 9770746,
+		"name" : "김현미",
+		"email" : "7844990@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "기획재정위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "연세대학교 언론홍보대학원",
+				"code" : 11022
+			}, {
+				"type" : "고등학교",
+				"name" : "전주여자고등학교",
+				"code" : 5680
+			}, {
+				"type" : "대학교",
+				"name" : "연세대학교",
+				"code" : 4136
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "경기 고양시일산서구",
+		"website" : "http://hyunmee.net"
+	}, {
+		"id" : 9770747,
+		"name" : "김현숙",
+		"email" : null,
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "보건복지위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "서울대학교 대학원",
+				"code" : 10898
+			}, {
+				"type" : "대학원",
+				"name" : "일리노이대학교 대학원",
+				"code" : 12069
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}
+		],
+		"party" : "새누리당",
+		"local" : "비례대표",
+		"website" : null
+	}, {
+		"id" : 9770749,
+		"name" : "김회선",
+		"email" : "ilovesc1@na.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["교육문화체육관광위원회", "정치개혁특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "조지워싱턴대학교 대학원",
+				"code" : 12090
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "고등학교",
+				"name" : "경기고등학교",
+				"code" : 4385
+			}
+		],
+		"party" : "새누리당",
+		"local" : "서울 서초구갑",
+		"website" : "http://www.hoeseon.com"
+	}, {
+		"id" : 9770750,
+		"name" : "김희국",
+		"email" : "heekuk1020@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "국토교통위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "경북대학교",
+				"code" : 4015
+			}, {
+				"type" : "고등학교",
+				"name" : "경북고등학교",
+				"code" : 4738
+			}
+		],
+		"party" : "새누리당",
+		"local" : "대구 중구남구",
+		"website" : "http://unclekim.net"
+	}, {
+		"id" : 9770751,
+		"name" : "김희정",
+		"email" : "khjkorea@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "외교통일위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "연세대학교 대학원",
+				"code" : 10910
+			}, {
+				"type" : "고등학교",
+				"name" : "대명여자고등학교",
+				"code" : 4638
+			}, {
+				"type" : "대학교",
+				"name" : "연세대학교",
+				"code" : 4136
+			}
+		],
+		"party" : "새누리당",
+		"local" : "부산 연제구",
+		"website" : "http://www.khjkorea.com"
+	}, {
+		"id" : 9770903,
+		"name" : "나경원",
+		"email" : "nakw@na.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "외교통일위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "서울대학교 대학원",
+				"code" : 10898
+			}, {
+				"type" : "고등학교",
+				"name" : "서울여자고등학교",
+				"code" : 13242
+			}, {
+				"type" : "중학교",
+				"name" : "숭의여자중학교",
+				"code" : 13099
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "초등학교",
+				"name" : "계성초등학교",
+				"code" : 2831
+			}
+		],
+		"party" : "새누리당",
+		"local" : "서울 동작구을",
+		"website" : "http://blog.naver.com/nakw63"
+	}, {
+		"id" : 9770553,
+		"name" : "나성린",
+		"email" : null,
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["기획재정위원회", "예산결산특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "옥스퍼드대학교 대학원",
+				"code" : 12444
+			}, {
+				"type" : "대학원",
+				"name" : "에식스대학교 대학원",
+				"code" : 12441
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}
+		],
+		"party" : "새누리당",
+		"local" : "부산 부산진구갑",
+		"website" : "http://www.nasl.or.kr"
+	}, {
+		"id" : 9770752,
+		"name" : "남인순",
+		"email" : "nisoon@na.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["보건복지위원회", "여성가족위원회", "군인권개선및병영문화혁신특별위원회", "중동호흡기증후군대책특별위원회"]
+			}, {
+				"type" : "대학교",
+				"name" : "수도여자사범대학",
+				"code" : 14106
+			}, {
+				"type" : "대학교",
+				"name" : "세종대학교",
+				"code" : 4133
+			}, {
+				"type" : "대학원",
+				"name" : "성공회대학교 시민사회복지대학원",
+				"code" : 17671
+			}, {
+				"type" : "고등학교",
+				"name" : "인일여자고등학교",
+				"code" : 4844
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "비례대표",
+		"website" : "http://nisoon.tistory.com"
+	}, {
+		"id" : 9770329,
+		"name" : "노영민",
+		"email" : "youngmin21c@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "산업통상자원위원회"
+			}, {
+				"type" : "고등학교",
+				"name" : "청주고등학교",
+				"code" : 5424
+			}, {
+				"type" : "중학교",
+				"name" : "주성중학교",
+				"code" : 15860
+			}, {
+				"type" : "대학교",
+				"name" : "연세대학교",
+				"code" : 4136
+			}, {
+				"type" : "초등학교",
+				"name" : "석교초등학교",
+				"code" : 15045
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "충북 청주시흥덕구을",
+		"website" : "http://www.min21.net"
+	}, {
+		"id" : 9770753,
+		"name" : "노웅래",
+		"email" : "wraenoh@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["안전행정위원회", "국민안전혁신특별위원회"]
+			}, {
+				"type" : "초등학교",
+				"name" : "공덕초등학교",
+				"code" : 2838
+			}, {
+				"type" : "대학교",
+				"name" : "중앙대학교",
+				"code" : 4139
+			}, {
+				"type" : "고등학교",
+				"name" : "대성고등학교",
+				"code" : 4440
+			}, {
+				"type" : "대학원",
+				"name" : "동국대학교 언론정보대학원",
+				"code" : 13457
+			}, {
+				"type" : "중학교",
+				"name" : "대성중학교",
+				"code" : 13057
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "서울 마포구갑",
+		"website" : "http://www.gowithwr.com"
+	}, {
+		"id" : 9770554,
+		"name" : "노철래",
+		"email" : "rcr2008@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "법제사법위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "중앙대학교",
+				"code" : 4139
+			}, {
+				"type" : "고등학교",
+				"name" : "군산고등학교",
+				"code" : 5579
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경기 광주시",
+		"website" : "http://www.rcr.kr"
+	}, {
+		"id" : 9770755,
+		"name" : "도종환",
+		"email" : null,
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["교육문화체육관광위원회", "군인권개선및병영문화혁신특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "충남대학교 대학원",
+				"code" : 11153
+			}, {
+				"type" : "대학원",
+				"name" : "충북대학교 대학원",
+				"code" : 11231
+			}, {
+				"type" : "대학교",
+				"name" : "충북대학교",
+				"code" : 4033
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "비례대표",
+		"website" : null
+	}, {
+		"id" : 9770888,
+		"name" : "류성걸",
+		"email" : "sungkull@na.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "기획재정위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "경북대학교",
+				"code" : 4015
+			}, {
+				"type" : "고등학교",
+				"name" : "경북고등학교",
+				"code" : 4738
+			}, {
+				"type" : "대학원",
+				"name" : "시라큐스대학교 대학원",
+				"code" : 11905
+			}
+		],
+		"party" : "새누리당",
+		"local" : "대구 동구갑",
+		"website" : "http://www.usk21.co.kr"
+	}, {
+		"id" : 9770756,
+		"name" : "류지영",
+		"email" : "yjy@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["미래창조과학방송통신위원회", "여성가족위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "숙명여자대학교 대학원",
+				"code" : 10907
+			}, {
+				"type" : "대학원",
+				"name" : "숙명여자대학교",
+				"code" : 4134
+			}
+		],
+		"party" : "새누리당",
+		"local" : "비례대표",
+		"website" : "http://www.yjy2012.com"
+	}, {
+		"id" : 9770757,
+		"name" : "문대성",
+		"email" : "cybermds@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "교육문화체육관광위원회"
+			}, {
+				"type" : "고등학교",
+				"name" : "리라컴퓨터고등학교",
+				"code" : 13195
+			}, {
+				"type" : "대학원",
+				"name" : "용인대학교 대학원",
+				"code" : 11177
+			}, {
+				"type" : "대학교",
+				"name" : "동아대학교",
+				"code" : 4104
+			}, {
+				"type" : "대학원",
+				"name" : "국민대학교 대학원",
+				"code" : 10886
+			}
+		],
+		"party" : "새누리당",
+		"local" : "부산 사하구갑",
+		"website" : "http://www.greatmoon.kr/"
+	}, {
+		"id" : 9770758,
+		"name" : "문병호",
+		"email" : "moon3055@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["미래창조과학방송통신위원회", "정보위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "서울대학교 대학원",
+				"code" : 10898
+			}, {
+				"type" : "고등학교",
+				"name" : "광주인성고등학교",
+				"code" : 4913
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "인천 부평구갑",
+		"website" : "http://www.bhmoon.co.kr"
+	}, {
+		"id" : 9770759,
+		"name" : "문재인",
+		"email" : "7882236@gmail.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "국방위원회"
+			}, {
+				"type" : "고등학교",
+				"name" : "경남고등학교",
+				"code" : 4614
+			}, {
+				"type" : "대학교",
+				"name" : "경희대학교",
+				"code" : 4112
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "부산 사상구",
+		"website" : "http://www.moonjaein.com"
+	}, {
+		"id" : 9770760,
+		"name" : "문정림",
+		"email" : "doucemoon@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["보건복지위원회", "윤리특별위원회", "중동호흡기증후군대책특별위원회"]
+			}, {
+				"type" : "대학교",
+				"name" : "가톨릭대학교",
+				"code" : 4109
+			}, {
+				"type" : "대학원",
+				"name" : "가톨릭대학교 대학원",
+				"code" : 10878
+			}
+		],
+		"party" : "새누리당",
+		"local" : "비례대표",
+		"website" : null
+	}, {
+		"id" : 9770084,
+		"name" : "문희상",
+		"email" : "moonhs@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["안전행정위원회", "정보위원회"]
+			}, {
+				"type" : "중학교",
+				"name" : "경복중학교",
+				"code" : 14192
+			}, {
+				"type" : "초등학교",
+				"name" : "양주초등학교",
+				"code" : 1547
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "고등학교",
+				"name" : "경복고등학교",
+				"code" : 4399
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "경기 의정부시갑",
+		"website" : "http://www.moonhs.net"
+	}, {
+		"id" : 9770761,
+		"name" : "민병두",
+		"email" : "bdmin1958@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "정무위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "성균관대학교",
+				"code" : 4131
+			}, {
+				"type" : "고등학교",
+				"name" : "경기고등학교",
+				"code" : 4385
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "서울 동대문구을",
+		"website" : "http://www.bdmin.net"
+	}, {
+		"id" : 9770762,
+		"name" : "민병주",
+		"email" : "bjmin135@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국회운영위원회", "미래창조과학방송통신위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "이화여자대학교 대학원",
+				"code" : 10912
+			}, {
+				"type" : "대학원",
+				"name" : "규슈대학교 대학원",
+				"code" : 12569
+			}, {
+				"type" : "대학교",
+				"name" : "이화여자대학교",
+				"code" : 4137
+			}
+		],
+		"party" : "새누리당",
+		"local" : "비례대표",
+		"website" : "http://www.bjmin.org"
+	}, {
+		"id" : 9770763,
+		"name" : "민현주",
+		"email" : "newrules@na.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["환경노동위원회", "정치개혁특별위원회"]
+			}
+		],
+		"party" : "새누리당",
+		"local" : "비례대표",
+		"website" : "http://blog.naver.com/newrules77"
+	}, {
+		"id" : 9770764,
+		"name" : "민홍철",
+		"email" : null,
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국토교통위원회", "예산결산특별위원회", "군인권개선및병영문화혁신특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "부산대학교 대학원",
+				"code" : 11076
+			}, {
+				"type" : "고등학교",
+				"name" : "김해고등학교",
+				"code" : 6161
+			}, {
+				"type" : "대학교",
+				"name" : "부산대학교",
+				"code" : 4018
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "경남 김해시갑",
+		"website" : null
+	}, {
+		"id" : 9770911,
+		"name" : "박광온",
+		"email" : "sotong533@gmail.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국회운영위원회", "기획재정위원회"]
+			}, {
+				"type" : "대학교",
+				"name" : "고려대학교",
+				"code" : 4113
+			}, {
+				"type" : "대학원",
+				"name" : "동국대학교 언론정보대학원",
+				"code" : 13457
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "경기 수원시정",
+		"website" : "http://blog.naver.com/kopark2012"
+	}, {
+		"id" : 9770339,
+		"name" : "박기춘",
+		"email" : "parkkichoon@na.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국토교통위원회", "예산결산특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "고려대학교 대학원",
+				"code" : 10883
+			}, {
+				"type" : "대학원",
+				"name" : "대진대학교 대학원",
+				"code" : 11175
+			}, {
+				"type" : "대학교",
+				"name" : "대진대학교",
+				"code" : 4044
+			}, {
+				"type" : "고등학교",
+				"name" : "광동고등학교",
+				"code" : 6955
+			}, {
+				"type" : "대학원",
+				"name" : "경희대학교 대학원",
+				"code" : 10882
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "경기 남양주시을",
+		"website" : "http://www.kichoon.com"
+	}, {
+		"id" : 9770765,
+		"name" : "박남춘",
+		"email" : "parknamchun@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "안전행정위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "웨일즈대학교 대학원",
+				"code" : 12451
+			}, {
+				"type" : "대학교",
+				"name" : "고려대학교",
+				"code" : 4113
+			}, {
+				"type" : "고등학교",
+				"name" : "제물포고등학교",
+				"code" : 4861
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "인천 남동구갑",
+		"website" : "http://blog.naver.com/parknamchun"
+	}, {
+		"id" : 9770766,
+		"name" : "박대동",
+		"email" : "pddy2k@na.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["정무위원회", "정치개혁특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "위스콘신대학교 대학원",
+				"code" : 12034
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "고등학교",
+				"name" : "경남고등학교",
+				"code" : 4614
+			}
+		],
+		"party" : "새누리당",
+		"local" : "울산 북구",
+		"website" : "http://www.facebook.com/park.daedong"
+	}, {
+		"id" : 9770767,
+		"name" : "박대출",
+		"email" : "dcparkjj@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "교육문화체육관광위원회"
+			}, {
+				"type" : "중학교",
+				"name" : "진주남중학교",
+				"code" : 19245
+			}, {
+				"type" : "대학원",
+				"name" : "연세대학교 행정대학원",
+				"code" : 11025
+			}, {
+				"type" : "대학교",
+				"name" : "연세대학교",
+				"code" : 4136
+			}, {
+				"type" : "고등학교",
+				"name" : "진주고등학교",
+				"code" : 6279
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경남 진주시갑",
+		"website" : "http://www.wejinju.co.kr"
+	}, {
+		"id" : 9770768,
+		"name" : "박덕흠",
+		"email" : "parkdukhyum@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "국토교통위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "한양대학교 대학원",
+				"code" : 10920
+			}, {
+				"type" : "대학교",
+				"name" : "서울산업대학교",
+				"code" : 4195
+			}, {
+				"type" : "대학원",
+				"name" : "연세대학교 대학원",
+				"code" : 10910
+			}, {
+				"type" : "대학원",
+				"name" : "서울산업대학교 철도전문대학원",
+				"code" : 17333
+			}, {
+				"type" : "대학교",
+				"name" : "게르첸국립사범대학교",
+				"code" : 18002
+			}
+		],
+		"party" : "새누리당",
+		"local" : "충북 보은군옥천군영동군",
+		"website" : null
+	}, {
+		"id" : 9770908,
+		"name" : "박맹우",
+		"email" : "ulsanbmw@na.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["기획재정위원회", "예산결산특별위원회"]
+			}, {
+				"type" : "대학교",
+				"name" : "국민대학교",
+				"code" : 4115
+			}, {
+				"type" : "대학원",
+				"name" : "동의대학교 대학원",
+				"code" : 11075
+			}, {
+				"type" : "고등학교",
+				"name" : "경남고등학교",
+				"code" : 4614
+			}, {
+				"type" : "대학원",
+				"name" : "경남대학교 행정대학원",
+				"code" : 11320
+			}
+		],
+		"party" : "새누리당",
+		"local" : "울산 남구을",
+		"website" : "http://blog.naver.com/ulsanpmw"
+	}, {
+		"id" : 9770899,
+		"name" : "박명재",
+		"email" : "mjp@na.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["기획재정위원회", "예산결산특별위원회", "군인권개선및병영문화혁신특별위원회"]
+			}, {
+				"type" : "대학교",
+				"name" : "용인대학교",
+				"code" : 4056
+			}, {
+				"type" : "대학원",
+				"name" : "국립사회과학대학원",
+				"code" : 11339
+			}, {
+				"type" : "대학원",
+				"name" : "연세대학교 행정대학원",
+				"code" : 11025
+			}, {
+				"type" : "고등학교",
+				"name" : "중동고등학교",
+				"code" : 4562
+			}, {
+				"type" : "대학교",
+				"name" : "연세대학교",
+				"code" : 4136
+			}, {
+				"type" : "대학교",
+				"name" : "경북대학교",
+				"code" : 4015
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경북 포항시남구울릉군",
+		"website" : null
+	}, {
+		"id" : 9770769,
+		"name" : "박민수",
+		"email" : "lawperf@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "농림축산식품해양수산위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "고려대학교",
+				"code" : 4113
+			}, {
+				"type" : "중학교",
+				"name" : "전주동중학교",
+				"code" : 7376
+			}, {
+				"type" : "고등학교",
+				"name" : "전라고등학교",
+				"code" : 5666
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "전북 진안군무주군장수군임실군",
+		"website" : "http://blog.naver.com/lawperf"
+	}, {
+		"id" : 9770557,
+		"name" : "박민식",
+		"email" : "msbusan@na.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["미래창조과학방송통신위원회", "정보위원회", "정치개혁특별위원회"]
+			}, {
+				"type" : "고등학교",
+				"name" : "부산대학교 사범대학 부속고등학교",
+				"code" : 4680
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}
+		],
+		"party" : "새누리당",
+		"local" : "부산 북구강서구갑",
+		"website" : "http://www.minshik.kr"
+	}, {
+		"id" : 9770770,
+		"name" : "박범계",
+		"email" : null,
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["기획재정위원회", "예산결산특별위원회", "정치개혁특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "한밭대학교",
+				"code" : 4193
+			}, {
+				"type" : "대학교",
+				"name" : "연세대학교",
+				"code" : 4136
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "대전 서구을",
+		"website" : null
+	}, {
+		"id" : 9770090,
+		"name" : "박병석",
+		"email" : "pbs21@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "정무위원회"
+			}, {
+				"type" : "중학교",
+				"name" : "대전중학교",
+				"code" : 13998
+			}, {
+				"type" : "대학교",
+				"name" : "성균관대학교",
+				"code" : 4131
+			}, {
+				"type" : "고등학교",
+				"name" : "대전고등학교",
+				"code" : 4935
+			}, {
+				"type" : "대학교",
+				"name" : "충남대학교",
+				"code" : 4016
+			}, {
+				"type" : "대학원",
+				"name" : "한양대학교 대학원",
+				"code" : 10920
+			}, {
+				"type" : "초등학교",
+				"name" : "삼성초등학교",
+				"code" : 3010
+			}, {
+				"type" : "대학원",
+				"name" : "한양대학교 언론정보대학원",
+				"code" : 11052
+			}, {
+				"type" : "대학원",
+				"name" : "성균관대학교 대학원",
+				"code" : 10903
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "대전 서구갑",
+		"website" : "http://www.pbs21.or.kr"
+	}, {
+		"id" : 9770559,
+		"name" : "박상은",
+		"email" : "separk@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["외교통일위원회", "예산결산특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "연세대학교 대학원",
+				"code" : 10910
+			}, {
+				"type" : "고등학교",
+				"name" : "경동고등학교",
+				"code" : 4394
+			}, {
+				"type" : "초등학교",
+				"name" : "해명초등학교",
+				"code" : 3580
+			}, {
+				"type" : "중학교",
+				"name" : "송도중학교",
+				"code" : 13513
+			}, {
+				"type" : "대학교",
+				"name" : "연세대학교",
+				"code" : 4136
+			}
+		],
+		"party" : "새누리당",
+		"local" : "인천 중구동구옹진군",
+		"website" : "http://www.pse.or.kr"
+	}, {
+		"id" : 9770771,
+		"name" : "박성호",
+		"email" : null,
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국회운영위원회", "국토교통위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "고려대학교 대학원",
+				"code" : 10883
+			}, {
+				"type" : "대학교",
+				"name" : "고려대학교",
+				"code" : 4113
+			}, {
+				"type" : "대학원",
+				"name" : "경희대학교 대학원",
+				"code" : 10882
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경남 창원시의창구",
+		"website" : null
+	}, {
+		"id" : 9770773,
+		"name" : "박수현",
+		"email" : "worker21c@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국회운영위원회", "국토교통위원회"]
+			}, {
+				"type" : "중학교",
+				"name" : "공주대학교 사범대학 부설중학교",
+				"code" : 18717
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "대학원",
+				"name" : "연세대학교 행정대학원",
+				"code" : 11025
+			}, {
+				"type" : "대학교",
+				"name" : "한국방송통신대학교",
+				"code" : 4372
+			}, {
+				"type" : "고등학교",
+				"name" : "공주대학교 사범대학 부설고등학교",
+				"code" : 5463
+			}, {
+				"type" : "초등학교",
+				"name" : "금학초등학교",
+				"code" : 17315
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "충남 공주시",
+		"website" : "http://www.gongjunamja.org"
+	}, {
+		"id" : 9770347,
+		"name" : "박영선",
+		"email" : "parkyoungsun21@gmail.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["기획재정위원회", "정치개혁특별위원회"]
+			}, {
+				"type" : "고등학교",
+				"name" : "수도여자고등학교",
+				"code" : 12983
+			}, {
+				"type" : "대학원",
+				"name" : "서강대학교 언론대학원",
+				"code" : 10986
+			}, {
+				"type" : "대학교",
+				"name" : "경희대학교",
+				"code" : 4112
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "서울 구로구을",
+		"website" : "http://www.pys21.net"
+	}, {
+		"id" : 9770774,
+		"name" : "박완주",
+		"email" : "lasco21@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "산업통상자원위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "성균관대학교",
+				"code" : 4131
+			}, {
+				"type" : "고등학교",
+				"name" : "천안중앙고등학교",
+				"code" : 5542
+			}, {
+				"type" : "중학교",
+				"name" : "천안중학교",
+				"code" : 14170
+			}, {
+				"type" : "초등학교",
+				"name" : "삼은초등학교",
+				"code" : 15851
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "충남 천안시을",
+		"website" : "http://blog.naver.com/withwanju/"
+	}, {
+		"id" : 9770775,
+		"name" : "박원석",
+		"email" : "jinbochange@gmail.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "기획재정위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "동국대학교",
+				"code" : 4120
+			}, {
+				"type" : "대학원",
+				"name" : "홍콩대학교 대학원",
+				"code" : 19374
+			}
+		],
+		"party" : "정의당",
+		"local" : "비례대표",
+		"website" : "http://www.wonsuk.or.kr"
+	}, {
+		"id" : 9770901,
+		"name" : "박윤옥",
+		"email" : "gloryokok@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["보건복지위원회", "여성가족위원회"]
+			}, {
+				"type" : "대학교",
+				"name" : "이화여자대학교",
+				"code" : 4137
+			}
+		],
+		"party" : "새누리당",
+		"local" : "비례대표",
+		"website" : "http://blog.naver.com/gloryokok"
+	}, {
+		"id" : 9770776,
+		"name" : "박인숙",
+		"email" : "ispark0530@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["교육문화체육관광위원회", "윤리특별위원회", "중동호흡기증후군대책특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "울산대학교 대학원",
+				"code" : 11174
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}
+		],
+		"party" : "새누리당",
+		"local" : "서울 송파구갑",
+		"website" : "http://www.parkinsook.co.kr"
+	}, {
+		"id" : 9770566,
+		"name" : "박주선",
+		"email" : "jsp@na.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "교육문화체육관광위원회"
+			}, {
+				"type" : "고등학교",
+				"name" : "광주고등학교",
+				"code" : 4873
+			}, {
+				"type" : "대학원",
+				"name" : "서울대학교 대학원",
+				"code" : 10898
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "대학교",
+				"name" : "케임브리지대학교",
+				"code" : 9538
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "광주 동구",
+		"website" : "http://www.parkjoosun.pe.kr"
+	}, {
+		"id" : 9770568,
+		"name" : "박지원",
+		"email" : "jwp615@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["법제사법위원회", "정보위원회"]
+			}, {
+				"type" : "대학교",
+				"name" : "조선대학교",
+				"code" : 4086
+			}, {
+				"type" : "대학교",
+				"name" : "단국대학교",
+				"code" : 4118
+			}, {
+				"type" : "대학교",
+				"name" : "목포대학교",
+				"code" : 4025
+			}, {
+				"type" : "대학교",
+				"name" : "광주교육대학교",
+				"code" : 3999
+			}, {
+				"type" : "고등학교",
+				"name" : "문태고등학교",
+				"code" : 5776
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "전남 목포시",
+		"website" : "http://www.jwp615.com"
+	}, {
+		"id" : 9770777,
+		"name" : "박창식",
+		"email" : "pcs963963@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "교육문화체육관광위원회"
+			}
+		],
+		"party" : "새누리당",
+		"local" : "비례대표",
+		"website" : "www.pcs.or.kr"
+	}, {
+		"id" : 9770778,
+		"name" : "박혜자",
+		"email" : "hj_p@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["교육문화체육관광위원회", "여성가족위원회", "예산결산특별위원회", "중동호흡기증후군대책특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "이화여자대학교 대학원",
+				"code" : 10912
+			}, {
+				"type" : "대학교",
+				"name" : "서울시립대학교 대학원",
+				"code" : 10901
+			}, {
+				"type" : "대학원",
+				"name" : "오리건대학교 대학원",
+				"code" : 11973
+			}, {
+				"type" : "대학원",
+				"name" : "이화여자대학교",
+				"code" : 4137
+			}, {
+				"type" : "대학원",
+				"name" : "전남여자고등학교",
+				"code" : 4917
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "광주 서구갑",
+		"website" : "http://www.phj.or.kr"
+	}, {
+		"id" : 9770779,
+		"name" : "박홍근",
+		"email" : "maumgil88@gmail.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "교육문화체육관광위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "경희대학교 행정대학원",
+				"code" : 10935
+			}, {
+				"type" : "고등학교",
+				"name" : "순천효천고등학교",
+				"code" : 5891
+			}, {
+				"type" : "대학교",
+				"name" : "경희대학교",
+				"code" : 4112
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "서울 중랑구을",
+		"website" : "http://blog.naver.com/bakhonggeun"
+	}, {
+		"id" : 9770904,
+		"name" : "배덕광",
+		"email" : "baedk@na.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "미래창조과학방송통신위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "경성대학교 대학원",
+				"code" : 11070
+			}, {
+				"type" : "대학원",
+				"name" : "부산대학교 국제전문대학원",
+				"code" : 14781
+			}, {
+				"type" : "고등학교",
+				"name" : "마산상업고등학교",
+				"code" : 6192
+			}, {
+				"type" : "중학교",
+				"name" : "창덕중학교",
+				"code" : 17184
+			}, {
+				"type" : "초등학교",
+				"name" : "신방초등학교",
+				"code" : 1519
+			}, {
+				"type" : "대학교",
+				"name" : "동아대학교",
+				"code" : 4104
+			}, {
+				"type" : "대학원",
+				"name" : "부산대학교 행정대학원",
+				"code" : 11096
+			}
+		],
+		"party" : "새누리당",
+		"local" : "부산 해운대구기장군갑",
+		"website" : "http://blog.naver.com/baedk48"
+	}, {
+		"id" : 9770781,
+		"name" : "배재정",
+		"email" : "jjreport@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["교육문화체육관광위원회", "예산결산특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "부산대학교 대학원",
+				"code" : 11076
+			}, {
+				"type" : "대학교",
+				"name" : "부산대학교",
+				"code" : 4018
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "비례대표",
+		"website" : "http://www.jjreport.net"
+	}, {
+		"id" : 9770782,
+		"name" : "백군기",
+		"email" : "kmageneral@gmail.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국회운영위원회", "국방위원회", "군인권개선및병영문화혁신특별위원회"]
+			}, {
+				"type" : "대학교",
+				"name" : "용인대학교",
+				"code" : 4056
+			}, {
+				"type" : "대학원",
+				"name" : "살레시오중학교",
+				"code" : 17946
+			}, {
+				"type" : "대학교",
+				"name" : "육군사관학교",
+				"code" : 4371
+			}, {
+				"type" : "초등학교",
+				"name" : "동화초등학교",
+				"code" : 92
+			}, {
+				"type" : "대학원",
+				"name" : "경남대학교 경영대학원",
+				"code" : 11317
+			}, {
+				"type" : "대학원",
+				"name" : "광주고등학교",
+				"code" : 4873
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "비례대표",
+		"website" : "http://blog.naver.com/kmageneral"
+	}, {
+		"id" : 9770573,
+		"name" : "백재현",
+		"email" : "jhok100@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["산업통상자원위원회", "정치개혁특별위원회"]
+			}, {
+				"type" : "대학교",
+				"name" : "경기대학교",
+				"code" : 4042
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "경기 광명시갑",
+		"website" : "http://www.ok100.or.kr"
+	}, {
+		"id" : 9770356,
+		"name" : "변재일",
+		"email" : "bji@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국토교통위원회", "예산결산특별위원회"]
+			}, {
+				"type" : "고등학교",
+				"name" : "청주고등학교",
+				"code" : 5424
+			}, {
+				"type" : "대학교",
+				"name" : "연세대학교",
+				"code" : 4136
+			}, {
+				"type" : "대학원",
+				"name" : "펜실베이니아대학교 대학원",
+				"code" : 12250
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "충북 청원군",
+		"website" : "http://open21.or.kr"
+	}, {
+		"id" : 9770783,
+		"name" : "부좌현",
+		"email" : "bjh2021@na.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국회운영위원회", "산업통상자원위원회", "예산결산특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "한양대학교 행정대학원",
+				"code" : 17728
+			}, {
+				"type" : "대학교",
+				"name" : "한국방송통신대학교",
+				"code" : 4372
+			}, {
+				"type" : "대학원",
+				"name" : "목포고등학교",
+				"code" : 5765
+			}, {
+				"type" : "대학원",
+				"name" : "서강대학교",
+				"code" : 4124
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "경기 안산시단원구을",
+		"website" : "www.bjh2080.co.kr"
+	}, {
+		"id" : 9770891,
+		"name" : "서기호",
+		"email" : "sgh463@gmail.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["법제사법위원회", "예산결산특별위원회", "윤리특별위원회"]
+			}, {
+				"type" : "고등학교",
+				"name" : "목포고등학교",
+				"code" : 5765
+			}, {
+				"type" : "중학교",
+				"name" : "목포홍일중학교",
+				"code" : 19264
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "초등학교",
+				"name" : "목포이로초등학교",
+				"code" : 18993
+			}
+		],
+		"party" : "정의당",
+		"local" : "비례대표",
+		"website" : "http://www.seogiho.kr"
+	}, {
+		"id" : 9770360,
+		"name" : "서상기",
+		"email" : "sks@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["미래창조과학방송통신위원회", "예산결산특별위원회"]
+			}, {
+				"type" : "초등학교",
+				"name" : "칠성초등학교",
+				"code" : 2377
+			}, {
+				"type" : "대학원",
+				"name" : "드렉셀대학교 대학원",
+				"code" : 11634
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "고등학교",
+				"name" : "경북중학교",
+				"code" : 6898
+			}, {
+				"type" : "대학원",
+				"name" : "웨인주립대학교 대학원",
+				"code" : 12029
+			}, {
+				"type" : "고등학교",
+				"name" : "경기고등학교",
+				"code" : 4385
+			}
+		],
+		"party" : "새누리당",
+		"local" : "대구 북구을",
+		"website" : "http://www.sks.or.kr"
+	}, {
+		"id" : 9770784,
+		"name" : "서영교",
+		"email" : "youngkyos@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "법제사법위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "이화여자대학교 대학원",
+				"code" : 10912
+			}, {
+				"type" : "고등학교",
+				"name" : "혜원여자고등학교",
+				"code" : 4600
+			}, {
+				"type" : "대학교",
+				"name" : "이화여자대학교",
+				"code" : 4137
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "서울 중랑구갑",
+		"website" : "http://blog.naver.com/youngkyos"
+	}, {
+		"id" : 9770785,
+		"name" : "서용교",
+		"email" : "yg4namgu@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "교육문화체육관광위원회"
+			}, {
+				"type" : "중학교",
+				"name" : "부산서중학교",
+				"code" : 17383
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "고등학교",
+				"name" : "동천고등학교",
+				"code" : 4663
+			}, {
+				"type" : "초등학교",
+				"name" : "동일중앙초등학교",
+				"code" : 19385
+			}
+		],
+		"party" : "새누리당",
+		"local" : "부산 남구을",
+		"website" : "http://www.서용교.com"
+	}, {
+		"id" : 9770898,
+		"name" : "서청원",
+		"email" : "suhcw@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "안전행정위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "중앙대학교",
+				"code" : 4139
+			}, {
+				"type" : "고등학교",
+				"name" : "중앙대학교 사범대학 부속고등학교",
+				"code" : 15960
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경기 화성시갑",
+		"website" : "http://www.suhchungwon.com"
+	}, {
+		"id" : 9770786,
+		"name" : "설훈",
+		"email" : "sulhoon21@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "교육문화체육관광위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "고려대학교",
+				"code" : 4113
+			}, {
+				"type" : "고등학교",
+				"name" : "마산고등학교",
+				"code" : 6188
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "경기 부천시원미구을",
+		"website" : "http://www.sulhoon.com"
+	}, {
+		"id" : 9770788,
+		"name" : "손인춘",
+		"email" : "shoninchun@gmail.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "국방위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "건국대학교 대학원",
+				"code" : 10880
+			}, {
+				"type" : "대학원",
+				"name" : "숭실대학교 중소기업대학원",
+				"code" : 11015
+			}, {
+				"type" : "대학교",
+				"name" : "대림대학",
+				"code" : 4220
+			}, {
+				"type" : "대학원",
+				"name" : "상명대학교 대학원",
+				"code" : 10893
+			}
+		],
+		"party" : "새누리당",
+		"local" : "비례대표",
+		"website" : "http://shonic.co.kr"
+	}, {
+		"id" : 9770580,
+		"name" : "송광호",
+		"email" : null,
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "보건복지위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "성균관대학교",
+				"code" : 4131
+			}, {
+				"type" : "대학원",
+				"name" : "연세대학교 행정대학원",
+				"code" : 11025
+			}, {
+				"type" : "고등학교",
+				"name" : "제천고등학교",
+				"code" : 5409
+			}, {
+				"type" : "중학교",
+				"name" : "제천중학교",
+				"code" : 14067
+			}
+		],
+		"party" : "새누리당",
+		"local" : "충북 제천시단양군",
+		"website" : "http://www.songkh.com"
+	}, {
+		"id" : 9770789,
+		"name" : "송영근",
+		"email" : "songyk0530@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "국방위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "육군사관학교",
+				"code" : 4371
+			}, {
+				"type" : "대학원",
+				"name" : "경희대학교 경영대학원",
+				"code" : 10931
+			}, {
+				"type" : "대학원",
+				"name" : "동국대학교 불교대학원",
+				"code" : 10964
+			}, {
+				"type" : "고등학교",
+				"name" : "성동고등학교",
+				"code" : 12977
+			}
+		],
+		"party" : "새누리당",
+		"local" : "비례대표",
+		"website" : "http://songlove.kr"
+	}, {
+		"id" : 9770790,
+		"name" : "송호창",
+		"email" : "hochang67@hotmail.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "미래창조과학방송통신위원회"
+			}, {
+				"type" : "고등학교",
+				"name" : "부산동고등학교",
+				"code" : 4681
+			}, {
+				"type" : "대학교",
+				"name" : "인하대학교",
+				"code" : 4150
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "경기 의왕시과천시",
+		"website" : "http://www.hochang21.com"
+	}, {
+		"id" : 9770791,
+		"name" : "신경림",
+		"email" : null,
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["보건복지위원회", "중동호흡기증후군대책특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "컬럼비아대학교 대학원",
+				"code" : 12152
+			}, {
+				"type" : "대학교",
+				"name" : "이화여자대학교",
+				"code" : 4137
+			}
+		],
+		"party" : "새누리당",
+		"local" : "비례대표",
+		"website" : "http://상선약수.com"
+	}, {
+		"id" : 9770792,
+		"name" : "신경민",
+		"email" : "mentshin@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["외교통일위원회", "정보위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "고려대학교 대학원",
+				"code" : 10883
+			}, {
+				"type" : "고등학교",
+				"name" : "전주고등학교",
+				"code" : 5674
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "서울 영등포구을",
+		"website" : "http://mentshin.com"
+	}, {
+		"id" : 9770793,
+		"name" : "신계륜",
+		"email" : "sgr211@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "기획재정위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "고려대학교",
+				"code" : 4113
+			}, {
+				"type" : "고등학교",
+				"name" : "광주고등학교",
+				"code" : 4873
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "서울 성북구을",
+		"website" : "http://www.sgr21.or.kr"
+	}, {
+		"id" : 9770868,
+		"name" : "신기남",
+		"email" : "skn8384@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "국토교통위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "고등학교",
+				"name" : "경기고등학교",
+				"code" : 4385
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "서울 강서구갑",
+		"website" : "http://www.skn.kr"
+	}, {
+		"id" : 9770794,
+		"name" : "신동우",
+		"email" : "eastrain53@gmail.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "정무위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "고등학교",
+				"name" : "경복고등학교",
+				"code" : 4399
+			}, {
+				"type" : "대학원",
+				"name" : "펜실베이니아대학교 대학원",
+				"code" : 12250
+			}
+		],
+		"party" : "새누리당",
+		"local" : "서울 강동구갑",
+		"website" : "http://www.shindongwoo.co.kr"
+	}, {
+		"id" : 9770921,
+		"name" : "신상진",
+		"email" : "ssj21c@na.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국토교통위원회", "예산결산특별위원회", "중동호흡기증후군대책특별위원회"]
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "고등학교",
+				"name" : "용산고등학교",
+				"code" : 4525
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경기 성남시중원구",
+		"website" : "http://www.ssj.or.kr"
+	}, {
+		"id" : 9770584,
+		"name" : "신성범",
+		"email" : "sbumshin@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "교육문화체육관광위원회"
+			}, {
+				"type" : "고등학교",
+				"name" : "거창고등학교",
+				"code" : 6135
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경남 산청군함양군거창군",
+		"website" : "http://www.sbumshin.com"
+	}, {
+		"id" : 9770795,
+		"name" : "신의진",
+		"email" : "yjshin@na.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["교육문화체육관광위원회", "군인권개선및병영문화혁신특별위원회", "중동호흡기증후군대책특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "연세대학교 대학원",
+				"code" : 10910
+			}, {
+				"type" : "대학교",
+				"name" : "연세대학교",
+				"code" : 4136
+			}, {
+				"type" : "대학원",
+				"name" : "혜화여자고등학교",
+				"code" : 12951
+			}
+		],
+		"party" : "새누리당",
+		"local" : "비례대표",
+		"website" : "http://iloveshin.kr"
+	}, {
+		"id" : 9770917,
+		"name" : "신정훈",
+		"email" : "jhshin6133@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국회운영위원회", "농림축산식품해양수산위원회", "국민안전혁신특별위원회", "정치개혁특별위원회"]
+			}, {
+				"type" : "대학교",
+				"name" : "고려대학교",
+				"code" : 4113
+			}, {
+				"type" : "고등학교",
+				"name" : "광주인성고등학교",
+				"code" : 4913
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "전남 나주시화순군",
+		"website" : "http://blog.naver.com/newnaju21"
+	}, {
+		"id" : 9770367,
+		"name" : "신학용",
+		"email" : "hyshin7129@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "정무위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "서울대학교 대학원",
+				"code" : 10898
+			}, {
+				"type" : "고등학교",
+				"name" : "인천중학교",
+				"code" : 7357
+			}, {
+				"type" : "대학원",
+				"name" : "부평동초등학교",
+				"code" : 3493
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "고등학교",
+				"name" : "제물포고등학교",
+				"code" : 4861
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "인천 계양구갑",
+		"website" : "http://www.seen.or.kr"
+	}, {
+		"id" : 9770869,
+		"name" : "심상정",
+		"email" : "sangjungsim@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["환경노동위원회", "정치개혁특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "서울대조초등학교",
+				"code" : 16050
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "대학원",
+				"name" : "충암중학교",
+				"code" : 13666
+			}, {
+				"type" : "대학원",
+				"name" : "명지여자고등학교",
+				"code" : 18709
+			}
+		],
+		"party" : "정의당",
+		"local" : "경기 고양시덕양구갑",
+		"website" : "http://www.minsim.or.kr"
+	}, {
+		"id" : 9770797,
+		"name" : "심윤조",
+		"email" : "yjshim@na.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "외교통일위원회"
+			}, {
+				"type" : "중학교",
+				"name" : "중앙중학교",
+				"code" : 7192
+			}, {
+				"type" : "고등학교",
+				"name" : "중앙고등학교",
+				"code" : 4566
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}
+		],
+		"party" : "새누리당",
+		"local" : "서울 강남구갑",
+		"website" : "http://www.shimyoonjoe.kr/"
+	}, {
+		"id" : 9770798,
+		"name" : "심재권",
+		"email" : "sjk815@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["외교통일위원회", "예산결산특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "모나쉬대학교대학원",
+				"code" : 12875
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "서울 강동구을",
+		"website" : null
+	}, {
+		"id" : 9770138,
+		"name" : "심재철",
+		"email" : "cleanshim@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "기획재정위원회"
+			}, {
+				"type" : "고등학교",
+				"name" : "광주제일고등학교",
+				"code" : 4884
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "대학원",
+				"name" : "중앙대학교사회개발대학원",
+				"code" : 11035
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경기 안양시동안구을",
+		"website" : "http://www.cleanshim.com"
+	}, {
+		"id" : 9770799,
+		"name" : "심학봉",
+		"email" : "shb745@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국회운영위원회", "미래창조과학방송통신위원회"]
+			}, {
+				"type" : "고등학교",
+				"name" : "구미전자공업고등학교",
+				"code" : 5927
+			}, {
+				"type" : "대학교",
+				"name" : "경북대학교",
+				"code" : 4015
+			}, {
+				"type" : "대학원",
+				"name" : "미주리주립대학교 대학원",
+				"code" : 11771
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경북 구미시갑",
+		"website" : "http://www.big-gumi.com"
+	}, {
+		"id" : 9770587,
+		"name" : "안규백",
+		"email" : "intoan429@gmail.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "국방위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "성균관대학교",
+				"code" : 4131
+			}, {
+				"type" : "고등학교",
+				"name" : "광주서석고등학교",
+				"code" : 4903
+			}, {
+				"type" : "대학원",
+				"name" : "성균관대학교무역대학원",
+				"code" : 11002
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "서울 동대문구갑",
+		"website" : "http://www.safe100.or.kr"
+	}, {
+		"id" : 9770372,
+		"name" : "안민석",
+		"email" : "ams2273@daum.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["교육문화체육관광위원회", "예산결산특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "일리노이주립대학교 대학원",
+				"code" : 12073
+			}, {
+				"type" : "대학교",
+				"name" : "북콜로라도 주립대학교대학원",
+				"code" : 14268
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "고등학교",
+				"name" : "수성고등학교",
+				"code" : 5097
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "경기 오산시",
+		"website" : "http://www.osan21.or.kr"
+	}, {
+		"id" : 9770919,
+		"name" : "안상수",
+		"email" : "ahnssoo@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["농림축산식품해양수산위원회", "예산결산특별위원회"]
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "대학원",
+				"name" : "트로이대학교 대학원",
+				"code" : 19527
+			}, {
+				"type" : "대학교",
+				"name" : "연세대학교",
+				"code" : 4136
+			}, {
+				"type" : "대학교",
+				"name" : "한국방송통신대학교",
+				"code" : 4372
+			}, {
+				"type" : "대학원",
+				"name" : "서울대학교 대학원",
+				"code" : 10898
+			}, {
+				"type" : "고등학교",
+				"name" : "경기고등학교",
+				"code" : 4385
+			}
+		],
+		"party" : "새누리당",
+		"local" : "인천 서구강화군을",
+		"website" : "http://blog.naver.com/ahnssoo"
+	}, {
+		"id" : 9770896,
+		"name" : "안철수",
+		"email" : "ahncs0518@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "보건복지위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교 의과대학원",
+				"code" : 17360
+			}, {
+				"type" : "고등학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "대학원",
+				"name" : "서울대학교 대학원",
+				"code" : 10898
+			}, {
+				"type" : "대학교",
+				"name" : "펜실베이니아대학교 와튼스쿨",
+				"code" : 13317
+			}, {
+				"type" : "대학원",
+				"name" : "펜실베이니아대학교 대학원",
+				"code" : 12250
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "서울 노원구병",
+		"website" : "http://ahncs.kr"
+	}, {
+		"id" : 9770374,
+		"name" : "안홍준",
+		"email" : "masan-jun@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "교육문화체육관광위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "부산대학교 대학원",
+				"code" : 11076
+			}, {
+				"type" : "중학교",
+				"name" : "마산중학교",
+				"code" : 7089
+			}, {
+				"type" : "대학원",
+				"name" : "경상대학교 대학원",
+				"code" : 11313
+			}, {
+				"type" : "초등학교",
+				"name" : "군북초등학교",
+				"code" : 1325
+			}, {
+				"type" : "고등학교",
+				"name" : "마산고등학교",
+				"code" : 6188
+			}, {
+				"type" : "대학교",
+				"name" : "부산대학교",
+				"code" : 4018
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경남 창원시마산회원구",
+		"website" : "http://www.cleanjun.com"
+	}, {
+		"id" : 9770589,
+		"name" : "안효대",
+		"email" : "ahd823@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "농림축산식품해양수산위원회"
+			}, {
+				"type" : "고등학교",
+				"name" : "청구고등학교",
+				"code" : 4802
+			}, {
+				"type" : "대학교",
+				"name" : "계명대학교",
+				"code" : 4089
+			}
+		],
+		"party" : "새누리당",
+		"local" : "울산 동구",
+		"website" : "http://www.hdahn.com"
+	}, {
+		"id" : 9770375,
+		"name" : "양승조",
+		"email" : "YSJ@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "보건복지위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "단국대학교 대학원",
+				"code" : 10887
+			}, {
+				"type" : "대학교",
+				"name" : "성균관대학교",
+				"code" : 4131
+			}, {
+				"type" : "고등학교",
+				"name" : "중동고등학교",
+				"code" : 4562
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "충남 천안시갑",
+		"website" : "http://www.ysj.or.kr"
+	}, {
+		"id" : 9770902,
+		"name" : "양창영",
+		"email" : "ycy513@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["환경노동위원회", "예산결산특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "연세대학교 경영대학원",
+				"code" : 18861
+			}, {
+				"type" : "대학원",
+				"name" : "세종대학교 대학원",
+				"code" : 10905
+			}, {
+				"type" : "대학교",
+				"name" : "연세대학교",
+				"code" : 4136
+			}, {
+				"type" : "고등학교",
+				"name" : "경북대학교 사범대학 부속고등학교",
+				"code" : 4743
+			}
+		],
+		"party" : "새누리당",
+		"local" : "비례대표",
+		"website" : null
+	}, {
+		"id" : 9770591,
+		"name" : "여상규",
+		"email" : "yeosk@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["산업통상자원위원회", "정치개혁특별위원회"]
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "고등학교",
+				"name" : "경남고등학교",
+				"code" : 4614
+			}, {
+				"type" : "중학교",
+				"name" : "악양중학교",
+				"code" : 15537
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경남 사천시남해군하동군",
+		"website" : "http://www.sky21.co.kr"
+	}, {
+		"id" : 9770802,
+		"name" : "염동열",
+		"email" : "signal9501@gmail.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["교육문화체육관광위원회", "윤리특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "국민대학교 대학원",
+				"code" : 10886
+			}
+		],
+		"party" : "새누리당",
+		"local" : "강원 태백시영월군평창군정선군",
+		"website" : "http://www.eideabank.co.kr"
+	}, {
+		"id" : 9770918,
+		"name" : "오신환",
+		"email" : "arang301@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["정무위원회", "예산결산특별위원회"]
+			}, {
+				"type" : "초등학교",
+				"name" : "당곡초등학교",
+				"code" : 2887
+			}, {
+				"type" : "고등학교",
+				"name" : "당곡고등학교",
+				"code" : 4436
+			}, {
+				"type" : "대학교",
+				"name" : "한국예술종합학교(한예종)",
+				"code" : 21817
+			}, {
+				"type" : "중학교",
+				"name" : "당곡중학교",
+				"code" : 13327
+			}
+		],
+		"party" : "새누리당",
+		"local" : "서울 관악구을",
+		"website" : "http://blog.naver.com/arang301"
+	}, {
+		"id" : 9770870,
+		"name" : "오영식",
+		"email" : "okys04@na.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "산업통상자원위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "고려대학교 대학원",
+				"code" : 10883
+			}, {
+				"type" : "대학교",
+				"name" : "고려대학교",
+				"code" : 4113
+			}, {
+				"type" : "대학원",
+				"name" : "고려대학교 경영대학원",
+				"code" : 10936
+			}, {
+				"type" : "고등학교",
+				"name" : "양정고등학교",
+				"code" : 4494
+			}, {
+				"type" : "중학교",
+				"name" : "휘경중학교",
+				"code" : 15688
+			}, {
+				"type" : "초등학교",
+				"name" : "전곡초등학교",
+				"code" : 3247
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "서울 강북구갑",
+		"website" : "http://okys.kr"
+	}, {
+		"id" : 9770380,
+		"name" : "오제세",
+		"email" : null,
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "기획재정위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "서울대학교 환경대학원",
+				"code" : 10995
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "고등학교",
+				"name" : "경기고등학교",
+				"code" : 4385
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "충북 청주시흥덕구갑",
+		"website" : "http://www.ojs.or.kr"
+	}, {
+		"id" : 9770871,
+		"name" : "우상호",
+		"email" : "wsh@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "미래창조과학방송통신위원회"
+			}, {
+				"type" : "고등학교",
+				"name" : "용문고등학교",
+				"code" : 4524
+			}, {
+				"type" : "대학원",
+				"name" : "연세대학교 행정대학원",
+				"code" : 11025
+			}, {
+				"type" : "대학교",
+				"name" : "연세대학교",
+				"code" : 4136
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "서울 서대문구갑",
+		"website" : "http://www.woosangho.net"
+	}, {
+		"id" : 9770872,
+		"name" : "우원식",
+		"email" : "reform1-1@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "환경노동위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "연세대학교 공학대학원",
+				"code" : 16231
+			}, {
+				"type" : "고등학교",
+				"name" : "경동고등학교",
+				"code" : 4394
+			}, {
+				"type" : "대학교",
+				"name" : "연세대학교",
+				"code" : 4136
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "서울 노원구을",
+		"website" : "http://우원식.kr"
+	}, {
+		"id" : 9770383,
+		"name" : "우윤근",
+		"email" : "wyk-lawyer@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "법제사법위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "전남대학교",
+				"code" : 4014
+			}, {
+				"type" : "대학원",
+				"name" : "상트페테르부르크대학교대학원",
+				"code" : 11494
+			}, {
+				"type" : "대학원",
+				"name" : "전남대학교 대학원",
+				"code" : 11133
+			}, {
+				"type" : "중학교",
+				"name" : "순천중학교",
+				"code" : 7235
+			}, {
+				"type" : "고등학교",
+				"name" : "살레시오고등학교",
+				"code" : 4901
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "전남 광양시구례군",
+		"website" : "http://www.wyk.co.kr"
+	}, {
+		"id" : 9770592,
+		"name" : "원유철",
+		"email" : "wonyoochul@daum.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "외교통일위원회"
+			}, {
+				"type" : "중학교",
+				"name" : "태광중학교",
+				"code" : 14255
+			}, {
+				"type" : "대학교",
+				"name" : "고려대학교",
+				"code" : 4113
+			}, {
+				"type" : "초등학교",
+				"name" : "송북초등학교",
+				"code" : 833
+			}, {
+				"type" : "고등학교",
+				"name" : "수성고등학교",
+				"code" : 5097
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경기 평택시갑",
+		"website" : "http://www.won21.or.kr"
+	}, {
+		"id" : 9770386,
+		"name" : "원혜영",
+		"email" : "whywon@paran.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "외교통일위원회"
+			}, {
+				"type" : "중학교",
+				"name" : "중동중학교",
+				"code" : 4563
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "고등학교",
+				"name" : "경복고등학교",
+				"code" : 4399
+			}, {
+				"type" : "초등학교",
+				"name" : "부천북초등학교",
+				"code" : 699
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "경기 부천시오정구",
+		"website" : "http://www.wonhyeyoung.or.kr"
+	}, {
+		"id" : 9770387,
+		"name" : "유기준",
+		"email" : "piloyu@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "외교통일위원회"
+			}, {
+				"type" : "고등학교",
+				"name" : "동아고등학교",
+				"code" : 4658
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "대학원",
+				"name" : "뉴욕대학교 법과대학원",
+				"code" : 11580
+			}
+		],
+		"party" : "새누리당",
+		"local" : "부산 서구",
+		"website" : "http://www.seogu21c.com"
+	}, {
+		"id" : 9770873,
+		"name" : "유기홍",
+		"email" : "youngkor@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "교육문화체육관광위원회"
+			}, {
+				"type" : "고등학교",
+				"name" : "양정고등학교",
+				"code" : 4494
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "중학교",
+				"name" : "배재중학교",
+				"code" : 13078
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "서울 관악구갑",
+		"website" : "http://www.kihong.or.kr"
+	}, {
+		"id" : 9770804,
+		"name" : "유대운",
+		"email" : "you7715@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "안전행정위원회"
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "서울 강북구을",
+		"website" : "http://goodluck2you.net"
+	}, {
+		"id" : 9770594,
+		"name" : "유성엽",
+		"email" : "yousuoy@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "농림축산식품해양수산위원회"
+			}, {
+				"type" : "고등학교",
+				"name" : "전주고등학교",
+				"code" : 5674
+			}, {
+				"type" : "중학교",
+				"name" : "전주신흥중학교",
+				"code" : 15800
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "전북 정읍시",
+		"website" : "http://www.yajeong.or.kr"
+	}, {
+		"id" : 9770497,
+		"name" : "유승민",
+		"email" : "ysm21com@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국회운영위원회", "국방위원회", "정보위원회"]
+			}, {
+				"type" : "고등학교",
+				"name" : "대륜중학교",
+				"code" : 7032
+			}, {
+				"type" : "대학원",
+				"name" : "위스콘신대학교 대학원",
+				"code" : 12034
+			}, {
+				"type" : "초등학교",
+				"name" : "삼덕초등학교",
+				"code" : 2300
+			}, {
+				"type" : "고등학교",
+				"name" : "경북고등학교",
+				"code" : 4738
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}
+		],
+		"party" : "새누리당",
+		"local" : "대구 동구을",
+		"website" : "http://www.ysm21.com"
+	}, {
+		"id" : 9770806,
+		"name" : "유승우",
+		"email" : null,
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "농림축산식품해양수산위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "고려대학교",
+				"code" : 4113
+			}, {
+				"type" : "대학원",
+				"name" : "상지대학교대학원",
+				"code" : 11217
+			}, {
+				"type" : "대학원",
+				"name" : "명지대학교 대학원",
+				"code" : 10891
+			}, {
+				"type" : "고등학교",
+				"name" : "이천농업고등학교",
+				"code" : 5182
+			}
+		],
+		"party" : "무소속",
+		"local" : "경기 이천시",
+		"website" : "http://www.ysw2000.kr"
+	}, {
+		"id" : 9770874,
+		"name" : "유승희",
+		"email" : "337ysh@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["미래창조과학방송통신위원회", "여성가족위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "이화여자대학교 대학원",
+				"code" : 10912
+			}, {
+				"type" : "대학원",
+				"name" : "한양대학교 대학원",
+				"code" : 10920
+			}, {
+				"type" : "대학원",
+				"name" : "숭실대학교노사관계대학원",
+				"code" : 11012
+			}, {
+				"type" : "대학교",
+				"name" : "이화여자대학교",
+				"code" : 4137
+			}, {
+				"type" : "고등학교",
+				"name" : "예일여자고등학교",
+				"code" : 4518
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "서울 성북구갑",
+		"website" : "http://www.yoush.org/"
+	}, {
+		"id" : 9770807,
+		"name" : "유은혜",
+		"email" : "way2yoo@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["교육문화체육관광위원회", "국민안전혁신특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "이화여자대학교 정책과학대학원",
+				"code" : 15910
+			}, {
+				"type" : "대학교",
+				"name" : "성균관대학교",
+				"code" : 4131
+			}, {
+				"type" : "고등학교",
+				"name" : "송곡여자고등학교",
+				"code" : 12982
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "경기 고양시일산동구",
+		"website" : "http://blog.naver.com/way2yoo"
+	}, {
+		"id" : 9770912,
+		"name" : "유의동",
+		"email" : "ptopen730@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국회운영위원회", "정무위원회", "중동호흡기증후군대책특별위원회"]
+			}, {
+				"type" : "초등학교",
+				"name" : "성동초등학교",
+				"code" : 2670
+			}, {
+				"type" : "대학원",
+				"name" : "캘리포니아주립대학교 대학원",
+				"code" : 12138
+			}, {
+				"type" : "대학교",
+				"name" : "한국외국어대학교",
+				"code" : 4143
+			}, {
+				"type" : "중학교",
+				"name" : "한광중학교",
+				"code" : 13784
+			}, {
+				"type" : "고등학교",
+				"name" : "평택한광고등학교",
+				"code" : 5230
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경기 평택시을",
+		"website" : "http://blog.naver.com/ptopen730"
+	}, {
+		"id" : 9770875,
+		"name" : "유인태",
+		"email" : "yit92@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["교육문화체육관광위원회", "정치개혁특별위원회"]
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "고등학교",
+				"name" : "경기고등학교",
+				"code" : 4385
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "서울 도봉구을",
+		"website" : "http://yit92.tistory.com"
+	}, {
+		"id" : 9770595,
+		"name" : "유일호",
+		"email" : "ilhoyoo@yahoo.co.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "미래창조과학방송통신위원회"
+			}, {
+				"type" : "초등학교",
+				"name" : "경복초등학교",
+				"code" : 2824
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "고등학교",
+				"name" : "경기고등학교",
+				"code" : 4385
+			}, {
+				"type" : "대학원",
+				"name" : "펜실베이니아대학교 대학원",
+				"code" : 12250
+			}
+		],
+		"party" : "새누리당",
+		"local" : "서울 송파구을",
+		"website" : "http://www.yooilho.co.kr"
+	}, {
+		"id" : 9770596,
+		"name" : "유재중",
+		"email" : "yoo@na.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "교육문화체육관광위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "부산대학교 대학원",
+				"code" : 11076
+			}, {
+				"type" : "대학교",
+				"name" : "동국대학교",
+				"code" : 4120
+			}
+		],
+		"party" : "새누리당",
+		"local" : "부산 수영구",
+		"website" : "http://www.yjj21.co.kr"
+	}, {
+		"id" : 9770808,
+		"name" : "윤관석",
+		"email" : "winneryks@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["교육문화체육관광위원회", "윤리특별위원회"]
+			}, {
+				"type" : "대학교",
+				"name" : "한양대학교",
+				"code" : 4145
+			}, {
+				"type" : "고등학교",
+				"name" : "서울 보성고등학교",
+				"code" : 14194
+			}, {
+				"type" : "대학원",
+				"name" : "강남중학교",
+				"code" : 14994
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "인천 남동구을",
+		"website" : "http://blog.daum.net/ysj2005"
+	}, {
+		"id" : 9770810,
+		"name" : "윤명희",
+		"email" : "m567h@na.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["기획재정위원회", "여성가족위원회", "군인권개선및병영문화혁신특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "경희사이버대학교",
+				"code" : 13240
+			}
+		],
+		"party" : "새누리당",
+		"local" : "비례대표",
+		"website" : "http://www.mhyoon.or.kr"
+	}, {
+		"id" : 9770598,
+		"name" : "윤상현",
+		"email" : "shyoon@na.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "외교통일위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "조지타운대학교외교대학원",
+				"code" : 12094
+			}, {
+				"type" : "대학원",
+				"name" : "조지워싱턴대학교국제정치대학원",
+				"code" : 12089
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}
+		],
+		"party" : "새누리당",
+		"local" : "인천 남구을",
+		"website" : "http://www.shyoon.co.kr"
+	}, {
+		"id" : 9770811,
+		"name" : "윤영석",
+		"email" : "hangomy@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "안전행정위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "내성중학교",
+				"code" : 13205
+			}, {
+				"type" : "초등학교",
+				"name" : "화제초등학교",
+				"code" : 1746
+			}, {
+				"type" : "대학교",
+				"name" : "성균관대학교",
+				"code" : 4131
+			}, {
+				"type" : "대학원",
+				"name" : "듀크대학교 대학원",
+				"code" : 11629
+			}, {
+				"type" : "고등학교",
+				"name" : "동인고등학교",
+				"code" : 4661
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경남 양산시",
+		"website" : null
+	}, {
+		"id" : 9770812,
+		"name" : "윤재옥",
+		"email" : "7882579@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["교육문화체육관광위원회", "예산결산특별위원회"]
+			}, {
+				"type" : "대학교",
+				"name" : "경찰대학",
+				"code" : 4365
+			}, {
+				"type" : "대학원",
+				"name" : "연세대학교 행정대학원",
+				"code" : 11025
+			}, {
+				"type" : "고등학교",
+				"name" : "오성고등학교",
+				"code" : 4793
+			}
+		],
+		"party" : "새누리당",
+		"local" : "대구 달서구을",
+		"website" : "http://www.yunjaeok.com"
+	}, {
+		"id" : 9770876,
+		"name" : "윤호중",
+		"email" : "hjyun327@gmail.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "기획재정위원회"
+			}, {
+				"type" : "고등학교",
+				"name" : "춘천고등학교",
+				"code" : 5348
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "경기 구리시",
+		"website" : "http://blog.naver.com/hjyun327"
+	}, {
+		"id" : 9770813,
+		"name" : "윤후덕",
+		"email" : "yoons609@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국방위원회", "군인권개선및병영문화혁신특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "연세대학교",
+				"code" : 4136
+			}, {
+				"type" : "대학원",
+				"name" : "중동고등학교",
+				"code" : 4562
+			}, {
+				"type" : "대학원",
+				"name" : "금촌초등학교",
+				"code" : 480
+			}, {
+				"type" : "대학원",
+				"name" : "경기대학교 정치전문대학원",
+				"code" : 13799
+			}, {
+				"type" : "대학교",
+				"name" : "연세대학교 대학원",
+				"code" : 10910
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "경기 파주시갑",
+		"website" : "http://pajulove.kr"
+	}, {
+		"id" : 9770814,
+		"name" : "은수미",
+		"email" : "hopesumi@na.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["환경노동위원회", "윤리특별위원회", "국민안전혁신특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "서울대학교 대학원",
+				"code" : 10898
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "비례대표",
+		"website" : "http://www.hopesumi.com"
+	}, {
+		"id" : 9770815,
+		"name" : "이강후",
+		"email" : "leekh@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "산업통상자원위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "고려대학교 대학원",
+				"code" : 10883
+			}, {
+				"type" : "고등학교",
+				"name" : "원주고등학교",
+				"code" : 5323
+			}, {
+				"type" : "대학원",
+				"name" : "조지워싱턴대학교행정대학원",
+				"code" : 12091
+			}, {
+				"type" : "초등학교",
+				"name" : "봉대초등학교",
+				"code" : 128
+			}, {
+				"type" : "대학원",
+				"name" : "서울대학교 행정대학원",
+				"code" : 10994
+			}, {
+				"type" : "대학교",
+				"name" : "강원대학교",
+				"code" : 4009
+			}
+		],
+		"party" : "새누리당",
+		"local" : "강원 원주시을",
+		"website" : "http://www.leekanghoo.kr"
+	}, {
+		"id" : 9770905,
+		"name" : "이개호",
+		"email" : "7880291@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["미래창조과학방송통신위원회", "예산결산특별위원회"]
+			}, {
+				"type" : "대학교",
+				"name" : "전남대학교",
+				"code" : 4014
+			}, {
+				"type" : "고등학교",
+				"name" : "금호고등학교",
+				"code" : 12947
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "전남 담양군함평군영광군장성군",
+		"website" : "www.leegaeho.co.kr"
+	}, {
+		"id" : 9770406,
+		"name" : "이군현",
+		"email" : "koonhyonlee@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "미래창조과학방송통신위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "캔자스주립대학교 대학원",
+				"code" : 12115
+			}, {
+				"type" : "고등학교",
+				"name" : "대경상업고등학교",
+				"code" : 4437
+			}, {
+				"type" : "대학교",
+				"name" : "중앙대학교",
+				"code" : 4139
+			}, {
+				"type" : "초등학교",
+				"name" : "안산초등학교",
+				"code" : 3132
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경남 통영시고성군",
+		"website" : "http://www.leekh.kr"
+	}, {
+		"id" : 9770816,
+		"name" : "이노근",
+		"email" : "lng5238@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국토교통위원회", "예산결산특별위원회", "국민안전혁신특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "경기대학교국제문화대학원",
+				"code" : 15097
+			}, {
+				"type" : "대학교",
+				"name" : "중앙대학교",
+				"code" : 4139
+			}, {
+				"type" : "대학원",
+				"name" : "경기대학교 정치전문대학원",
+				"code" : 13799
+			}, {
+				"type" : "고등학교",
+				"name" : "청주공업고등학교",
+				"code" : 7449
+			}
+		],
+		"party" : "새누리당",
+		"local" : "서울 노원구갑",
+		"website" : "http://www.lng5238.net"
+	}, {
+		"id" : 9770817,
+		"name" : "이만우",
+		"email" : "mwlee@na.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "기획재정위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "미네소타대학교 대학원",
+				"code" : 11748
+			}, {
+				"type" : "대학원",
+				"name" : "위스콘신대학교 대학원",
+				"code" : 12034
+			}, {
+				"type" : "대학교",
+				"name" : "고려대학교",
+				"code" : 4113
+			}, {
+				"type" : "대학원",
+				"name" : "경남고등학교",
+				"code" : 4614
+			}
+		],
+		"party" : "새누리당",
+		"local" : "비례대표",
+		"website" : "http://blog.naver.com/leemanwoo715"
+	}, {
+		"id" : 9770602,
+		"name" : "이명수",
+		"email" : "mslee3@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["보건복지위원회", "국민안전혁신특별위원회", "중동호흡기증후군대책특별위원회"]
+			}, {
+				"type" : "중학교",
+				"name" : "온양중학교",
+				"code" : 15016
+			}, {
+				"type" : "대학교",
+				"name" : "성균관대학교",
+				"code" : 4131
+			}, {
+				"type" : "초등학교",
+				"name" : "신창초등학교",
+				"code" : 3123
+			}, {
+				"type" : "고등학교",
+				"name" : "대전고등학교",
+				"code" : 4935
+			}, {
+				"type" : "대학원",
+				"name" : "성균관대학교 대학원",
+				"code" : 10903
+			}
+		],
+		"party" : "새누리당",
+		"local" : "충남 아산시",
+		"website" : "http://www.mslee.co.kr/"
+	}, {
+		"id" : 9770877,
+		"name" : "이목희",
+		"email" : "mokhee@nate.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "보건복지위원회"
+			}, {
+				"type" : "중학교",
+				"name" : "상주중학교",
+				"code" : 13696
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "고등학교",
+				"name" : "김천고등학교",
+				"code" : 5943
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "서울 금천구",
+		"website" : "http://www.mokhee.com"
+	}, {
+		"id" : 9770169,
+		"name" : "이미경",
+		"email" : "lmk2014@na.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "국토교통위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "이화여자대학교 대학원",
+				"code" : 10912
+			}, {
+				"type" : "고등학교",
+				"name" : "이화여자고등학교",
+				"code" : 4539
+			}, {
+				"type" : "대학교",
+				"name" : "이화여자대학교",
+				"code" : 4137
+			}, {
+				"type" : "중학교",
+				"name" : "경남여자중학교",
+				"code" : 14062
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "서울 은평구갑",
+		"website" : "http://www.leemikyung.net"
+	}, {
+		"id" : 9770171,
+		"name" : "이병석",
+		"email" : "lbs@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["법제사법위원회", "정치개혁특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "고려대학교 대학원",
+				"code" : 10883
+			}, {
+				"type" : "대학교",
+				"name" : "고려대학교",
+				"code" : 4113
+			}, {
+				"type" : "초등학교",
+				"name" : "영흥초등학교",
+				"code" : 14376
+			}, {
+				"type" : "대학교",
+				"name" : "타이완대학교",
+				"code" : 7638
+			}, {
+				"type" : "중학교",
+				"name" : "동지중학교",
+				"code" : 17081
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경북 포항시북구",
+		"website" : "http://www.musoi.com"
+	}, {
+		"id" : 9770414,
+		"name" : "이상민",
+		"email" : "smlee@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "법제사법위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "충남대학교",
+				"code" : 4016
+			}, {
+				"type" : "초등학교",
+				"name" : "신흥초등학교",
+				"code" : 2483
+			}, {
+				"type" : "고등학교",
+				"name" : "충남고등학교",
+				"code" : 4972
+			}, {
+				"type" : "중학교",
+				"name" : "대전중학교",
+				"code" : 13998
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "대전 유성구",
+		"website" : "http://www.smlee.or.kr"
+	}, {
+		"id" : 9770819,
+		"name" : "이상일",
+		"email" : "win.yongin@na.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국회운영위원회", "국토교통위원회"]
+			}, {
+				"type" : "중학교",
+				"name" : "한양중학교",
+				"code" : 13227
+			}, {
+				"type" : "고등학교",
+				"name" : "서울고등학교",
+				"code" : 12971
+			}, {
+				"type" : "대학원",
+				"name" : "연세대학교 대학원",
+				"code" : 10910
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "대학원",
+				"name" : "연세대학교 경영대학원",
+				"code" : 18861
+			}, {
+				"type" : "초등학교",
+				"name" : "함평초등학교",
+				"code" : 20797
+			}
+		],
+		"party" : "새누리당",
+		"local" : "비례대표",
+		"website" : "http://www.silee.co.kr"
+	}, {
+		"id" : 9770820,
+		"name" : "이상직",
+		"email" : "ace_hope@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["정무위원회", "예산결산특별위원회"]
+			}, {
+				"type" : "고등학교",
+				"name" : "전주고등학교",
+				"code" : 5674
+			}, {
+				"type" : "대학원",
+				"name" : "고려대학교 경영대학원",
+				"code" : 10936
+			}, {
+				"type" : "초등학교",
+				"name" : "전주중앙초등학교",
+				"code" : 3931
+			}, {
+				"type" : "대학교",
+				"name" : "동국대학교",
+				"code" : 4120
+			}, {
+				"type" : "중학교",
+				"name" : "전라중학교",
+				"code" : 15078
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "전북 전주시완산구을",
+		"website" : "http://www.2go2.kr"
+	}, {
+		"id" : 9770416,
+		"name" : "이석현",
+		"email" : "esh337@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "환경노동위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "고려대학교 대학원",
+				"code" : 10883
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "고등학교",
+				"name" : "남성고등학교",
+				"code" : 5594
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "경기 안양시동안구갑",
+		"website" : "http://www.lsh4u.kr"
+	}, {
+		"id" : 9770822,
+		"name" : "이언주",
+		"email" : "leeuj@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국회운영위원회", "국토교통위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "연세대학교 법무대학원",
+				"code" : 15964
+			}, {
+				"type" : "대학원",
+				"name" : "노스웨스턴대학교 로스쿨",
+				"code" : 17099
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "경기 광명시을",
+		"website" : "http://www.leeunju.com"
+	}, {
+		"id" : 9770823,
+		"name" : "이에리사",
+		"email" : "sarajevo1973@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국회운영위원회", "안전행정위원회", "예산결산특별위원회"]
+			}, {
+				"type" : "고등학교",
+				"name" : "서울여자상업고등학교",
+				"code" : 12972
+			}, {
+				"type" : "초등학교",
+				"name" : "대흥초등학교",
+				"code" : 2424
+			}, {
+				"type" : "중학교",
+				"name" : "문영여자중학교",
+				"code" : 13072
+			}, {
+				"type" : "대학원",
+				"name" : "명지대학교 대학원",
+				"code" : 10891
+			}, {
+				"type" : "대학교",
+				"name" : "명지대학교",
+				"code" : 4046
+			}
+		],
+		"party" : "새누리당",
+		"local" : "비례대표",
+		"website" : "http://blog.naver.com/sarajevo1973"
+	}, {
+		"id" : 9770897,
+		"name" : "이완구",
+		"email" : "0424victory@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "안전행정위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "성균관대학교",
+				"code" : 4131
+			}, {
+				"type" : "대학원",
+				"name" : "국방대학원",
+				"code" : 11066
+			}, {
+				"type" : "고등학교",
+				"name" : "양정고등학교",
+				"code" : 4494
+			}, {
+				"type" : "대학교",
+				"name" : "충남대학교",
+				"code" : 4016
+			}, {
+				"type" : "대학원",
+				"name" : "미시간주립대학교 대학원",
+				"code" : 11763
+			}, {
+				"type" : "중학교",
+				"name" : "대전중학교",
+				"code" : 13998
+			}
+		],
+		"party" : "새누리당",
+		"local" : "충남 부여군청양군",
+		"website" : "http://www.leewankoo.com"
+	}, {
+		"id" : 9770824,
+		"name" : "이완영",
+		"email" : "yiwy5777@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "국토교통위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "한국항공대학교 대학원",
+				"code" : 11183
+			}, {
+				"type" : "고등학교",
+				"name" : "대륜고등학교",
+				"code" : 4774
+			}, {
+				"type" : "대학원",
+				"name" : "서울대학교 행정대학원",
+				"code" : 10994
+			}, {
+				"type" : "중학교",
+				"name" : "경상중학교",
+				"code" : 14358
+			}, {
+				"type" : "대학교",
+				"name" : "영남대학교",
+				"code" : 4077
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경북 고령군성주군칠곡군",
+		"website" : "http://www.leedandi.kr"
+	}, {
+		"id" : 9770825,
+		"name" : "이우현",
+		"email" : "lwh99@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["환경노동위원회", "예산결산특별위원회"]
+			}, {
+				"type" : "대학교",
+				"name" : "용인대학교",
+				"code" : 4056
+			}, {
+				"type" : "대학원",
+				"name" : "용인대학교 대학원",
+				"code" : 11177
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경기 용인시갑",
+		"website" : "http://blog.naver.com/bravolwh"
+	}, {
+		"id" : 9770892,
+		"name" : "이운룡",
+		"email" : "urlee2004@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "정무위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "한국외국어대학교",
+				"code" : 4143
+			}, {
+				"type" : "대학원",
+				"name" : "한국외국어대학교 대학원",
+				"code" : 10917
+			}, {
+				"type" : "고등학교",
+				"name" : "대전고등학교",
+				"code" : 4935
+			}
+		],
+		"party" : "새누리당",
+		"local" : "비례대표",
+		"website" : null
+	}, {
+		"id" : 9770826,
+		"name" : "이원욱",
+		"email" : "ewon33@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "산업통상자원위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "고려대학교",
+				"code" : 4113
+			}, {
+				"type" : "고등학교",
+				"name" : "고려대학교 사범대학 부속고등학교",
+				"code" : 4410
+			}, {
+				"type" : "중학교",
+				"name" : "보성중학교",
+				"code" : 7128
+			}, {
+				"type" : "초등학교",
+				"name" : "미아초등학교",
+				"code" : 2976
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "경기 화성시을",
+		"website" : "http://blog.naver.com/ewon33"
+	}, {
+		"id" : 9770614,
+		"name" : "이윤석",
+		"email" : "lys6062@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "국토교통위원회"
+			}, {
+				"type" : "고등학교",
+				"name" : "목포공업고등학교",
+				"code" : 7099
+			}, {
+				"type" : "대학원",
+				"name" : "경남대학교 대학원",
+				"code" : 11312
+			}, {
+				"type" : "대학교",
+				"name" : "경남대학교",
+				"code" : 4066
+			}, {
+				"type" : "대학원",
+				"name" : "연세대학교 경제대학원",
+				"code" : 14091
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "전남 무안군신안군",
+		"website" : "http://www.leeyoonseok.kr"
+	}, {
+		"id" : 9770827,
+		"name" : "이이재",
+		"email" : "eej540@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국회운영위원회", "농림축산식품해양수산위원회"]
+			}, {
+				"type" : "중학교",
+				"name" : "경희중학교",
+				"code" : 13052
+			}, {
+				"type" : "초등학교",
+				"name" : "홍릉초등학교",
+				"code" : 3320
+			}, {
+				"type" : "대학교",
+				"name" : "명지대학교",
+				"code" : 4046
+			}, {
+				"type" : "대학원",
+				"name" : "성균관대학교 사회복지대학원",
+				"code" : 19622
+			}, {
+				"type" : "고등학교",
+				"name" : "용산고등학교",
+				"code" : 4525
+			}
+		],
+		"party" : "새누리당",
+		"local" : "강원 동해시삼척시",
+		"website" : "http://www.eej.or.kr"
+	}, {
+		"id" : 9770878,
+		"name" : "이인영",
+		"email" : "liy1964@empal.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["환경노동위원회", "여성가족위원회", "예산결산특별위원회"]
+			}, {
+				"type" : "고등학교",
+				"name" : "충주고등학교",
+				"code" : 5442
+			}, {
+				"type" : "대학교",
+				"name" : "고려대학교",
+				"code" : 4113
+			}, {
+				"type" : "대학원",
+				"name" : "고려대학교 언론대학원",
+				"code" : 10940
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "서울 구로구갑",
+		"website" : "http://www.inyoung.net"
+	}, {
+		"id" : 9770188,
+		"name" : "이인제",
+		"email" : "ij@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "농림축산식품해양수산위원회"
+			}, {
+				"type" : "중학교",
+				"name" : "논산중학교",
+				"code" : 15693
+			}, {
+				"type" : "초등학교",
+				"name" : "백석초등학교",
+				"code" : 15692
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "고등학교",
+				"name" : "경복고등학교",
+				"code" : 4399
+			}
+		],
+		"party" : "새누리당",
+		"local" : "충남 논산시계룡시금산군",
+		"website" : "http://www.ijworld.or.kr   * twitter/powerij    * facebook/powerij"
+	}, {
+		"id" : 9770828,
+		"name" : "이자스민",
+		"email" : "jasminelee@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["환경노동위원회", "여성가족위원회"]
+			}, {
+				"type" : "고등학교",
+				"name" : "파나보메리놀고등학교",
+				"code" : 19670
+			}, {
+				"type" : "초등학교",
+				"name" : "바코어패리쉬초등학교",
+				"code" : 19672
+			}, {
+				"type" : "대학교",
+				"name" : "아테네오데다바오대학교",
+				"code" : 18623
+			}, {
+				"type" : "초등학교",
+				"name" : "파나보센트럴초등학교",
+				"code" : 19671
+			}
+		],
+		"party" : "새누리당",
+		"local" : "비례대표",
+		"website" : "http://blog.naver.com/jasmine__lee"
+	}, {
+		"id" : 9770829,
+		"name" : "이장우",
+		"email" : "jwoo2772@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "국토교통위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "대전대학교",
+				"code" : 4095
+			}, {
+				"type" : "대학원",
+				"name" : "대전대학교 대학원",
+				"code" : 11150
+			}, {
+				"type" : "고등학교",
+				"name" : "대전고등학교",
+				"code" : 4935
+			}
+		],
+		"party" : "새누리당",
+		"local" : "대전 동구",
+		"website" : "http://blog.naver.com/jwoo37"
+	}, {
+		"id" : 9770832,
+		"name" : "이재영",
+		"email" : "jaeyoung@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국회운영위원회", "정무위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "연세대학교 행정대학원",
+				"code" : 11025
+			}, {
+				"type" : "대학교",
+				"name" : "미국 조지타운대학교",
+				"code" : 21561
+			}
+		],
+		"party" : "새누리당",
+		"local" : "비례대표",
+		"website" : "http://www.jaeyoung.net"
+	}, {
+		"id" : 9770694,
+		"name" : "이재오",
+		"email" : "leejo@na.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "외교통일위원회"
+			}, {
+				"type" : "고등학교",
+				"name" : "영양고등학교",
+				"code" : 6046
+			}, {
+				"type" : "중학교",
+				"name" : "석보중학교",
+				"code" : 17000
+			}, {
+				"type" : "대학교",
+				"name" : "중앙대학교",
+				"code" : 4139
+			}, {
+				"type" : "대학원",
+				"name" : "고려대학교 교육대학원",
+				"code" : 10937
+			}, {
+				"type" : "대학교",
+				"name" : "국민산업학교",
+				"code" : 10680
+			}
+		],
+		"party" : "새누리당",
+		"local" : "서울 은평구을",
+		"website" : "http://www.leejo.net"
+	}, {
+		"id" : 9770916,
+		"name" : "이정현",
+		"email" : "jhlee519519@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["산업통상자원위원회", "예산결산특별위원회"]
+			}, {
+				"type" : "초등학교",
+				"name" : "목사동초등학교",
+				"code" : 17814
+			}, {
+				"type" : "대학교",
+				"name" : "동국대학교",
+				"code" : 4120
+			}, {
+				"type" : "고등학교",
+				"name" : "살레시오고등학교",
+				"code" : 4901
+			}, {
+				"type" : "중학교",
+				"name" : "순천주암중학교",
+				"code" : 17812
+			}
+		],
+		"party" : "새누리당",
+		"local" : "전남 순천시곡성군",
+		"website" : "http://www.이정현.com"
+	}, {
+		"id" : 9770194,
+		"name" : "이종걸",
+		"email" : "anyang21@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국회운영위원회", "정무위원회", "정보위원회"]
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "고등학교",
+				"name" : "경기고등학교",
+				"code" : 4385
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "경기 안양시만안구",
+		"website" : "http://www.ljk.co.kr"
+	}, {
+		"id" : 9770914,
+		"name" : "이종배",
+		"email" : "victoryljb@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["농림축산식품해양수산위원회", "예산결산특별위원회"]
+			}, {
+				"type" : "대학교",
+				"name" : "고려대학교",
+				"code" : 4113
+			}, {
+				"type" : "고등학교",
+				"name" : "청주고등학교",
+				"code" : 5424
+			}, {
+				"type" : "중학교",
+				"name" : "충주중학교",
+				"code" : 16528
+			}, {
+				"type" : "초등학교",
+				"name" : "주덕초등학교",
+				"code" : 18847
+			}
+		],
+		"party" : "새누리당",
+		"local" : "충북 충주시",
+		"website" : null
+	}, {
+		"id" : 9770833,
+		"name" : "이종진",
+		"email" : null,
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "보건복지위원회"
+			}, {
+				"type" : "중학교",
+				"name" : "다사중학교",
+				"code" : 15104
+			}, {
+				"type" : "고등학교",
+				"name" : "대구농림고등학교",
+				"code" : 4769
+			}, {
+				"type" : "초등학교",
+				"name" : "다사초등학교",
+				"code" : 2234
+			}
+		],
+		"party" : "새누리당",
+		"local" : "대구 달성군",
+		"website" : "http://www.ljj2012.kr/"
+	}, {
+		"id" : 9770834,
+		"name" : "이종훈",
+		"email" : "rhee@na.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국회운영위원회", "교육문화체육관광위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "서울대학교 대학원",
+				"code" : 10898
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "대학원",
+				"name" : "코넬대학교 대학원",
+				"code" : 12173
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경기 성남시분당구갑",
+		"website" : "http://www.withbundang.com"
+	}, {
+		"id" : 9770499,
+		"name" : "이주영",
+		"email" : "newmasan@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "외교통일위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "서울대학교 대학원",
+				"code" : 10898
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "고등학교",
+				"name" : "경기고등학교",
+				"code" : 4385
+			}, {
+				"type" : "대학원",
+				"name" : "경남대학교 북한대학원",
+				"code" : 13338
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경남 창원시마산합포구",
+		"website" : "http://www.newmasan.com"
+	}, {
+		"id" : 9770621,
+		"name" : "이진복",
+		"email" : "jinbok57@na.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "산업통상자원위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "동아대학교 대학원",
+				"code" : 11074
+			}, {
+				"type" : "대학교",
+				"name" : "한국방송통신대학교",
+				"code" : 4372
+			}, {
+				"type" : "고등학교",
+				"name" : "부산기계공업고등학교",
+				"code" : 4676
+			}
+		],
+		"party" : "새누리당",
+		"local" : "부산 동래구",
+		"website" : "http://www.leejinbok.co.kr/"
+	}, {
+		"id" : 9770678,
+		"name" : "이찬열",
+		"email" : "leecy@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "국토교통위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "인하대학교",
+				"code" : 4150
+			}, {
+				"type" : "고등학교",
+				"name" : "삼일실업고등학교",
+				"code" : 5075
+			}, {
+				"type" : "중학교",
+				"name" : "삼괴중학교",
+				"code" : 16834
+			}, {
+				"type" : "초등학교",
+				"name" : "석천초등학교",
+				"code" : 16835
+			}, {
+				"type" : "대학원",
+				"name" : "연세대학교 경제대학원",
+				"code" : 14091
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "경기 수원시갑",
+		"website" : "http://leecy.or.kr"
+	}, {
+		"id" : 9770835,
+		"name" : "이채익",
+		"email" : "lci8572@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["산업통상자원위원회", "군인권개선및병영문화혁신특별위원회"]
+			}, {
+				"type" : "대학교",
+				"name" : "울산대학교",
+				"code" : 4068
+			}, {
+				"type" : "대학원",
+				"name" : "울산대학교 대학원",
+				"code" : 11174
+			}, {
+				"type" : "고등학교",
+				"name" : "브니엘고등학교",
+				"code" : 4704
+			}, {
+				"type" : "대학원",
+				"name" : "동국대학교 대학원",
+				"code" : 10889
+			}
+		],
+		"party" : "새누리당",
+		"local" : "울산 남구갑",
+		"website" : "http://www.이채익.com"
+	}, {
+		"id" : 9770685,
+		"name" : "이철우",
+		"email" : "lcw619@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["안전행정위원회", "정보위원회", "예산결산특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "연세대학교 행정대학원",
+				"code" : 11025
+			}, {
+				"type" : "대학교",
+				"name" : "대구대학교",
+				"code" : 4091
+			}, {
+				"type" : "대학교",
+				"name" : "경북대학교",
+				"code" : 4015
+			}, {
+				"type" : "고등학교",
+				"name" : "김천고등학교",
+				"code" : 5943
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경북 김천시",
+		"website" : "http://www.leecw.pe.kr/"
+	}, {
+		"id" : 9770623,
+		"name" : "이춘석",
+		"email" : "lcs1747@na.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국회운영위원회", "법제사법위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "원광대학교 대학원",
+				"code" : 11253
+			}, {
+				"type" : "대학교",
+				"name" : "한양대학교",
+				"code" : 4145
+			}, {
+				"type" : "초등학교",
+				"name" : "황등초등학교",
+				"code" : 3991
+			}, {
+				"type" : "고등학교",
+				"name" : "남성고등학교",
+				"code" : 5594
+			}, {
+				"type" : "중학교",
+				"name" : "황등중학교",
+				"code" : 15951
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "전북 익산시갑",
+		"website" : "http://www.ebyon.com"
+	}, {
+		"id" : 9770836,
+		"name" : "이학영",
+		"email" : "youngcamp1@gmail.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["정무위원회", "군인권개선및병영문화혁신특별위원회"]
+			}, {
+				"type" : "대학교",
+				"name" : "전남대학교",
+				"code" : 4014
+			}, {
+				"type" : "고등학교",
+				"name" : "순창농림고등학교",
+				"code" : 5629
+			}, {
+				"type" : "대학원",
+				"name" : "전남대학교 대학원",
+				"code" : 11133
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "경기 군포시",
+		"website" : "http://ofthepeople.kr"
+	}, {
+		"id" : 9770625,
+		"name" : "이학재",
+		"email" : "hjv6465@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "국토교통위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "인천검단초등학교",
+				"code" : 17101
+			}, {
+				"type" : "대학원",
+				"name" : "중앙대학교 대학원",
+				"code" : 10914
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "고등학교",
+				"name" : "부평고등학교",
+				"code" : 4824
+			}, {
+				"type" : "대학원",
+				"name" : "검단중학교",
+				"code" : 17102
+			}
+		],
+		"party" : "새누리당",
+		"local" : "인천 서구강화군갑",
+		"website" : "http://www.leehj.net"
+	}, {
+		"id" : 9770197,
+		"name" : "이한구",
+		"email" : "e219@e219.or.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["기획재정위원회", "윤리특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "경북고등학교",
+				"code" : 4738
+			}, {
+				"type" : "대학원",
+				"name" : "캔자스주립대학교 대학원",
+				"code" : 12115
+			}, {
+				"type" : "대학원",
+				"name" : "서울대학교 행정대학원",
+				"code" : 10994
+			}, {
+				"type" : "고등학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}
+		],
+		"party" : "새누리당",
+		"local" : "대구 수성구갑",
+		"website" : "http://www.e219.or.kr"
+	}, {
+		"id" : 9770626,
+		"name" : "이한성",
+		"email" : "hansung@na.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "법제사법위원회"
+			}, {
+				"type" : "고등학교",
+				"name" : "계성고등학교",
+				"code" : 4758
+			}, {
+				"type" : "대학원",
+				"name" : "서울대학교 대학원",
+				"code" : 10898
+			}, {
+				"type" : "초등학교",
+				"name" : "호명초등학교",
+				"code" : 329
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경북 문경시예천군",
+		"website" : "http://www.leehs.kr"
+	}, {
+		"id" : 9770879,
+		"name" : "이해찬",
+		"email" : "lhc21c@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "외교통일위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "고등학교",
+				"name" : "용산고등학교",
+				"code" : 4525
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "세종특별자치시",
+		"website" : "http://www.lhc21.net"
+	}, {
+		"id" : 9770837,
+		"name" : "이헌승",
+		"email" : "ilovebusanjin@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "국토교통위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "노스웨스턴대학교 대학원",
+				"code" : 11553
+			}, {
+				"type" : "대학교",
+				"name" : "고려대학교",
+				"code" : 4113
+			}, {
+				"type" : "대학원",
+				"name" : "한국해양대학교 대학원",
+				"code" : 11080
+			}, {
+				"type" : "대학원",
+				"name" : "조지워싱턴대학교 대학원",
+				"code" : 12090
+			}
+		],
+		"party" : "새누리당",
+		"local" : "부산 부산진구을",
+		"website" : "http://www.ilovebusanjin.com"
+	}, {
+		"id" : 9770838,
+		"name" : "이현재",
+		"email" : "hanam432@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "산업통상자원위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "서던캘리포니아대학교행정대학원",
+				"code" : 11864
+			}, {
+				"type" : "대학교",
+				"name" : "연세대학교",
+				"code" : 4136
+			}, {
+				"type" : "대학원",
+				"name" : "건국대학교 대학원",
+				"code" : 10880
+			}, {
+				"type" : "고등학교",
+				"name" : "청주고등학교",
+				"code" : 5424
+			}, {
+				"type" : "대학교",
+				"name" : "한국산업기술대학교",
+				"code" : 4186
+			}, {
+				"type" : "대학원",
+				"name" : "서울대학교 대학원",
+				"code" : 10898
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경기 하남시",
+		"website" : "http://www.lhj21.com"
+	}, {
+		"id" : 9770839,
+		"name" : "인재근",
+		"email" : "ijgalso@daum.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["보건복지위원회", "중동호흡기증후군대책특별위원회"]
+			}, {
+				"type" : "대학교",
+				"name" : "이화여자대학교",
+				"code" : 4137
+			}, {
+				"type" : "고등학교",
+				"name" : "인일여자고등학교",
+				"code" : 4844
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "서울 도봉구갑",
+		"website" : "http://www.ijk.or.kr"
+	}, {
+		"id" : 9770840,
+		"name" : "임내현",
+		"email" : "nhoffice@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "법제사법위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "서던메소디스트대학교 대학원",
+				"code" : 11853
+			}, {
+				"type" : "초등학교",
+				"name" : "광주중앙초등학교",
+				"code" : 2181
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "고등학교",
+				"name" : "경기고등학교",
+				"code" : 4385
+			}, {
+				"type" : "중학교",
+				"name" : "광주서중학교",
+				"code" : 4879
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "광주 북구을",
+		"website" : "http://www.nhlim.com"
+	}, {
+		"id" : 9770841,
+		"name" : "임수경",
+		"email" : "su.data663@gmail.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["안전행정위원회", "여성가족위원회", "중동호흡기증후군대책특별위원회"]
+			}, {
+				"type" : "대학교",
+				"name" : "한국방송통신대학교",
+				"code" : 4372
+			}, {
+				"type" : "대학교",
+				"name" : "한국외국어대학교",
+				"code" : 4143
+			}, {
+				"type" : "대학원",
+				"name" : "한국외국어대학교 대학원",
+				"code" : 10917
+			}, {
+				"type" : "대학원",
+				"name" : "서강대학교 언론대학원",
+				"code" : 10986
+			}, {
+				"type" : "고등학교",
+				"name" : "진명여자고등학교",
+				"code" : 4571
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "비례대표",
+		"website" : "http://blog.naver.com/su_blog"
+	}, {
+		"id" : 9770688,
+		"name" : "장병완",
+		"email" : "cbwhope@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "미래창조과학방송통신위원회"
+			}, {
+				"type" : "고등학교",
+				"name" : "광주제일고등학교",
+				"code" : 4884
+			}, {
+				"type" : "대학원",
+				"name" : "위스콘신대학교 대학원",
+				"code" : 12034
+			}, {
+				"type" : "대학원",
+				"name" : "중앙대학교 대학원",
+				"code" : 10914
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "광주 남구",
+		"website" : "http://www.cbwhope.or.kr"
+	}, {
+		"id" : 9770435,
+		"name" : "장윤석",
+		"email" : "yschang49@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "산업통상자원위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "한양대학교 대학원",
+				"code" : 10920
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "고등학교",
+				"name" : "경복고등학교",
+				"code" : 4399
+			}, {
+				"type" : "대학원",
+				"name" : "서던메소디스트대학교 데드먼법과대학원",
+				"code" : 11854
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경북 영주시",
+		"website" : "http://www.yschang49.or.kr"
+	}, {
+		"id" : 9770842,
+		"name" : "장하나",
+		"email" : "onethehuman@gmail.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "환경노동위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "연세대학교",
+				"code" : 4136
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "비례대표",
+		"website" : "http://www.onethehuman.com"
+	}, {
+		"id" : 9770437,
+		"name" : "전병헌",
+		"email" : "bhjun@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["미래창조과학방송통신위원회", "국민안전혁신특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "고려대학교 정책대학원",
+				"code" : 10943
+			}, {
+				"type" : "대학교",
+				"name" : "고려대학교",
+				"code" : 4113
+			}, {
+				"type" : "고등학교",
+				"name" : "휘문고등학교",
+				"code" : 4610
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "서울 동작구갑",
+		"website" : "http://blog.daum.net/bhjun"
+	}, {
+		"id" : 9770843,
+		"name" : "전순옥",
+		"email" : "spark@soonok.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "산업통상자원위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "워릭대학교대학원",
+				"code" : 12449
+			}, {
+				"type" : "대학원",
+				"name" : "러스킨 칼리지",
+				"code" : 21081
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "비례대표",
+		"website" : "http://blog.naver.com/sparksoon"
+	}, {
+		"id" : 9770844,
+		"name" : "전정희",
+		"email" : "jhjeon411@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["산업통상자원위원회", "국민안전혁신특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "이화여자대학교 대학원",
+				"code" : 10912
+			}, {
+				"type" : "대학원",
+				"name" : "전북대학교 대학원",
+				"code" : 11254
+			}, {
+				"type" : "대학교",
+				"name" : "이화여자대학교",
+				"code" : 4137
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "전북 익산시을 ",
+		"website" : "http://www.jjhiksanlove.com"
+	}, {
+		"id" : 9770845,
+		"name" : "전하진",
+		"email" : "hajin366@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "산업통상자원위원회"
+			}, {
+				"type" : "중학교",
+				"name" : "휘문중학교",
+				"code" : 7552
+			}, {
+				"type" : "초등학교",
+				"name" : "수송초등학교",
+				"code" : 21083
+			}, {
+				"type" : "대학원",
+				"name" : "연세대학교 경영전문대학원",
+				"code" : 11017
+			}, {
+				"type" : "고등학교",
+				"name" : "서라벌고등학교",
+				"code" : 12969
+			}, {
+				"type" : "대학교",
+				"name" : "인하대학교",
+				"code" : 4150
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경기 성남시분당구을",
+		"website" : "http://www.hajin.com"
+	}, {
+		"id" : 9770846,
+		"name" : "전해철",
+		"email" : "sangrokgab@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "법제사법위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "고려대학교",
+				"code" : 4113
+			}, {
+				"type" : "고등학교",
+				"name" : "마산중앙고등학교",
+				"code" : 6196
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "경기 안산시상록구갑",
+		"website" : "http://haec-jeon.tistory.com"
+	}, {
+		"id" : 9770439,
+		"name" : "정갑윤",
+		"email" : "mrjung@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "법제사법위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "조선대학교",
+				"code" : 4086
+			}, {
+				"type" : "대학원",
+				"name" : "울산대학교산업경영대학원",
+				"code" : 11324
+			}, {
+				"type" : "중학교",
+				"name" : "울산제일중학교",
+				"code" : 15776
+			}, {
+				"type" : "고등학교",
+				"name" : "경남고등학교",
+				"code" : 4614
+			}, {
+				"type" : "대학교",
+				"name" : "울산공과대학",
+				"code" : 17930
+			}
+		],
+		"party" : "새누리당",
+		"local" : "울산 중구",
+		"website" : "http://www.mrjung.net"
+	}, {
+		"id" : 9770441,
+		"name" : "정두언",
+		"email" : "dooun4u@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "산업통상자원위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "대학원",
+				"name" : "조지타운대학교 대학원",
+				"code" : 12093
+			}, {
+				"type" : "초등학교",
+				"name" : "창서초등학교",
+				"code" : 3277
+			}, {
+				"type" : "대학원",
+				"name" : "국민대학교 대학원",
+				"code" : 10886
+			}, {
+				"type" : "대학교",
+				"name" : "한국방송통신대학교",
+				"code" : 4372
+			}, {
+				"type" : "중학교",
+				"name" : "배문중학교",
+				"code" : 16556
+			}, {
+				"type" : "고등학교",
+				"name" : "경기고등학교",
+				"code" : 4385
+			}
+		],
+		"party" : "새누리당",
+		"local" : "서울 서대문구을",
+		"website" : "http://www.doodoodoo.co.kr"
+	}, {
+		"id" : 9770880,
+		"name" : "정문헌",
+		"email" : "moonhunc@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["기획재정위원회", "정치개혁특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "고려대학교 대학원",
+				"code" : 10883
+			}, {
+				"type" : "대학원",
+				"name" : "시카고대학교 대학원",
+				"code" : 11908
+			}
+		],
+		"party" : "새누리당",
+		"local" : "강원 속초시고성군양양군",
+		"website" : "http://www.hunny.or.kr"
+	}, {
+		"id" : 9770909,
+		"name" : "정미경",
+		"email" : "hega33@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국방위원회", "예산결산특별위원회"]
+			}, {
+				"type" : "대학교",
+				"name" : "고려대학교",
+				"code" : 4113
+			}, {
+				"type" : "대학원",
+				"name" : "홍익대학교 세무대학원",
+				"code" : 14250
+			}, {
+				"type" : "고등학교",
+				"name" : "덕성여자고등학교",
+				"code" : 4452
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경기 수원시을",
+		"website" : "http://blog.naver.com/hega33"
+	}, {
+		"id" : 9770229,
+		"name" : "정병국",
+		"email" : "bgchoung@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["외교통일위원회", "군인권개선및병영문화혁신특별위원회"]
+			}, {
+				"type" : "대학교",
+				"name" : "성균관대학교",
+				"code" : 4131
+			}, {
+				"type" : "대학원",
+				"name" : "연세대학교 행정대학원",
+				"code" : 11025
+			}, {
+				"type" : "대학원",
+				"name" : "성균관대학교 대학원",
+				"code" : 10903
+			}, {
+				"type" : "고등학교",
+				"name" : "서라벌고등학교",
+				"code" : 12969
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경기 여주군양평군가평군",
+		"website" : "http://www.byounggug.co.kr"
+	}, {
+		"id" : 9770881,
+		"name" : "정성호",
+		"email" : "jsh35351@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국토교통위원회", "예산결산특별위원회", "윤리특별위원회", "군인권개선및병영문화혁신특별위원회"]
+			}, {
+				"type" : "고등학교",
+				"name" : "대신고등학교",
+				"code" : 12957
+			}, {
+				"type" : "중학교",
+				"name" : "단국중학교",
+				"code" : 20258
+			}, {
+				"type" : "초등학교",
+				"name" : "상리초등학교",
+				"code" : 742
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "경기 양주시동두천시",
+		"website" : "http://www.jungsh.co.kr"
+	}, {
+		"id" : 9770230,
+		"name" : "정세균",
+		"email" : "skchung@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "외교통일위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "페퍼다인대학교 대학원",
+				"code" : 12248
+			}, {
+				"type" : "대학원",
+				"name" : "경희대학교 경영대학원",
+				"code" : 10931
+			}, {
+				"type" : "대학교",
+				"name" : "고려대학교",
+				"code" : 4113
+			}, {
+				"type" : "고등학교",
+				"name" : "전주신흥고등학교",
+				"code" : 5631
+			}, {
+				"type" : "대학원",
+				"name" : "전북대학교 대학원",
+				"code" : 11254
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "서울 종로구",
+		"website" : "http://www.skchung.or.kr"
+	}, {
+		"id" : 9770675,
+		"name" : "정수성",
+		"email" : "jss4star@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["산업통상자원위원회", "윤리특별위원회"]
+			}, {
+				"type" : "고등학교",
+				"name" : "경북고등학교",
+				"code" : 4738
+			}, {
+				"type" : "중학교",
+				"name" : "경주중학교",
+				"code" : 6928
+			}, {
+				"type" : "초등학교",
+				"name" : "양동초등학교",
+				"code" : 2005
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경북 경주시",
+		"website" : "http://www.jss4star.co.kr"
+	}, {
+		"id" : 9770907,
+		"name" : "정용기",
+		"email" : "jbrave119@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["안전행정위원회", "예산결산특별위원회"]
+			}, {
+				"type" : "중학교",
+				"name" : "충남중학교",
+				"code" : 15029
+			}, {
+				"type" : "대학교",
+				"name" : "경찰대학",
+				"code" : 4365
+			}, {
+				"type" : "고등학교",
+				"name" : "대전고등학교",
+				"code" : 4935
+			}, {
+				"type" : "대학교",
+				"name" : "연세대학교",
+				"code" : 4136
+			}, {
+				"type" : "초등학교",
+				"name" : "신흥초등학교",
+				"code" : 2483
+			}
+		],
+		"party" : "새누리당",
+		"local" : "대전 대덕구",
+		"website" : null
+	}, {
+		"id" : 9770847,
+		"name" : "정우택",
+		"email" : "wtc218@gmail.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "정무위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "성균관대학교",
+				"code" : 4131
+			}, {
+				"type" : "대학원",
+				"name" : "하와이대학교 대학원",
+				"code" : 12306
+			}, {
+				"type" : "대학원",
+				"name" : "서울대학교 행정대학원",
+				"code" : 10994
+			}, {
+				"type" : "고등학교",
+				"name" : "경기고등학교",
+				"code" : 4385
+			}
+		],
+		"party" : "새누리당",
+		"local" : "충북 청주시상당구",
+		"website" : "http://www.wtc21.co.kr"
+	}, {
+		"id" : 9770232,
+		"name" : "정의화",
+		"email" : "ceh312@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ""
+			}, {
+				"type" : "대학교",
+				"name" : "인제대학교",
+				"code" : 4069
+			}, {
+				"type" : "대학원",
+				"name" : "조선대학교 대학원",
+				"code" : 11134
+			}, {
+				"type" : "고등학교",
+				"name" : "부산고등학교",
+				"code" : 4671
+			}, {
+				"type" : "대학교",
+				"name" : "공주대학교",
+				"code" : 4032
+			}, {
+				"type" : "대학교",
+				"name" : "연세대학교",
+				"code" : 4136
+			}, {
+				"type" : "대학교",
+				"name" : "한국해양대학교",
+				"code" : 4019
+			}, {
+				"type" : "대학교",
+				"name" : "부산대학교",
+				"code" : 4018
+			}
+		],
+		"party" : "무소속",
+		"local" : "부산 중구동구",
+		"website" : "http://www.justice21.or.kr"
+	}, {
+		"id" : 9770848,
+		"name" : "정진후",
+		"email" : "eduhopejjh@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국회운영위원회", "교육문화체육관광위원회", "국민안전혁신특별위원회", "중동호흡기증후군대책특별위원회"]
+			}, {
+				"type" : "대학교",
+				"name" : "중앙대학교",
+				"code" : 4139
+			}
+		],
+		"party" : "정의당",
+		"local" : "비례대표",
+		"website" : "http://www.jinhoo.co.kr"
+	}, {
+		"id" : 9770882,
+		"name" : "정청래",
+		"email" : "ssaribi317@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "안전행정위원회"
+			}, {
+				"type" : "고등학교",
+				"name" : "보문고등학교",
+				"code" : 4955
+			}, {
+				"type" : "대학원",
+				"name" : "서강대학교 공공정책대학원",
+				"code" : 10983
+			}, {
+				"type" : "대학교",
+				"name" : "건국대학교",
+				"code" : 4111
+			}, {
+				"type" : "초등학교",
+				"name" : "석막초등학교",
+				"code" : 19821
+			}, {
+				"type" : "중학교",
+				"name" : "진산중학교",
+				"code" : 19822
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "서울 마포구을",
+		"website" : "http://www.mapopower.or.kr"
+	}, {
+		"id" : 9770849,
+		"name" : "정호준",
+		"email" : "chyung21@gmail.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "미래창조과학방송통신위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "한양대학교",
+				"code" : 4145
+			}, {
+				"type" : "대학교",
+				"name" : "뉴욕대학교 대학원",
+				"code" : 11579
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "서울 중구",
+		"website" : "http://www.lovejunggu.com"
+	}, {
+		"id" : 9770491,
+		"name" : "정희수",
+		"email" : "jhs01000@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "기획재정위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "일리노이대학교 대학원",
+				"code" : 12069
+			}, {
+				"type" : "대학교",
+				"name" : "성균관대학교",
+				"code" : 4131
+			}, {
+				"type" : "중학교",
+				"name" : "신녕중학교",
+				"code" : 15092
+			}, {
+				"type" : "초등학교",
+				"name" : "신녕초등학교",
+				"code" : 1974
+			}, {
+				"type" : "대학원",
+				"name" : "아주대학교 경영대학원",
+				"code" : 11205
+			}, {
+				"type" : "고등학교",
+				"name" : "대구상업고등학교",
+				"code" : 4771
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경북 영천시",
+		"website" : "http://www.happy01000.net"
+	}, {
+		"id" : 9770450,
+		"name" : "조경태",
+		"email" : "yeskt@ktclub.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "산업통상자원위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "부산대학교 대학원",
+				"code" : 11076
+			}, {
+				"type" : "고등학교",
+				"name" : "경남고등학교",
+				"code" : 4614
+			}, {
+				"type" : "대학교",
+				"name" : "부산대학교",
+				"code" : 4018
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "부산 사하구을",
+		"website" : "http://www.ktclub.kr"
+	}, {
+		"id" : 9770850,
+		"name" : "조명철",
+		"email" : "unicho1011@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["기획재정위원회", "윤리특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "김일성종합대학",
+				"code" : 7553
+			}, {
+				"type" : "대학교",
+				"name" : "김일성종합대학",
+				"code" : 7553
+			}
+		],
+		"party" : "새누리당",
+		"local" : "비례대표",
+		"website" : "http://blog.daum.net/cho-1011"
+	}, {
+		"id" : 9770648,
+		"name" : "조원진",
+		"email" : "johj98@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "안전행정위원회"
+			}, {
+				"type" : "고등학교",
+				"name" : "인창고등학교",
+				"code" : 4542
+			}, {
+				"type" : "고등학교",
+				"name" : "청구고등학교",
+				"code" : 4802
+			}, {
+				"type" : "대학원",
+				"name" : "영남대학교 행정대학원",
+				"code" : 11307
+			}, {
+				"type" : "대학교",
+				"name" : "한국외국어대학교",
+				"code" : 4143
+			}, {
+				"type" : "초등학교",
+				"name" : "종로초등학교",
+				"code" : 2365
+			}
+		],
+		"party" : "새누리당",
+		"local" : "대구 달서구병",
+		"website" : "http://www.chowonjin.com"
+	}, {
+		"id" : 9770456,
+		"name" : "조정식",
+		"email" : null,
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["교육문화체육관광위원회", "윤리특별위원회"]
+			}, {
+				"type" : "고등학교",
+				"name" : "동성고등학교",
+				"code" : 12960
+			}, {
+				"type" : "대학원",
+				"name" : "연세대학교 행정대학원",
+				"code" : 11025
+			}, {
+				"type" : "대학원",
+				"name" : "연세대학교 국제학대학원",
+				"code" : 11019
+			}, {
+				"type" : "대학교",
+				"name" : "연세대학교",
+				"code" : 4136
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "경기 시흥시을",
+		"website" : "http://www.greensh.net/"
+	}, {
+		"id" : 9770653,
+		"name" : "조해진",
+		"email" : "chrisjo@na.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국회운영위원회", "미래창조과학방송통신위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "서울대학교 대학원",
+				"code" : 10898
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "고등학교",
+				"name" : "밀양고등학교",
+				"code" : 6201
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경남 밀양시창녕군",
+		"website" : "http://www.chohaejin.com"
+	}, {
+		"id" : 9770851,
+		"name" : "조현룡",
+		"email" : "johy0411@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "기획재정위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "경희대학교 행정대학원",
+				"code" : 10935
+			}, {
+				"type" : "고등학교",
+				"name" : "마산고등학교",
+				"code" : 6188
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경남 의령군함안군합천군",
+		"website" : "http://www.johyunyong.co.kr"
+	}, {
+		"id" : 9770458,
+		"name" : "주승용",
+		"email" : "joo350@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["안전행정위원회", "예산결산특별위원회"]
+			}, {
+				"type" : "고등학교",
+				"name" : "광주제일고등학교",
+				"code" : 4884
+			}, {
+				"type" : "대학교",
+				"name" : "성균관대학교",
+				"code" : 4131
+			}, {
+				"type" : "대학원",
+				"name" : "고려대학교 경영대학원",
+				"code" : 10936
+			}, {
+				"type" : "대학원",
+				"name" : "전남대학교 대학원",
+				"code" : 11133
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "전남 여수시을",
+		"website" : "http://www.joo-sy.com"
+	}, {
+		"id" : 9770887,
+		"name" : "주영순",
+		"email" : "ijysoon@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "환경노동위원회"
+			}
+		],
+		"party" : "새누리당",
+		"local" : "비례대표",
+		"website" : "http://www.jysoon.or.kr"
+	}, {
+		"id" : 9770459,
+		"name" : "주호영",
+		"email" : "suseong@na.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국방위원회", "정보위원회"]
+			}, {
+				"type" : "고등학교",
+				"name" : "능인고등학교",
+				"code" : 4761
+			}, {
+				"type" : "대학원",
+				"name" : "영남대학교 대학원",
+				"code" : 11291
+			}, {
+				"type" : "대학교",
+				"name" : "영남대학교",
+				"code" : 4077
+			}
+		],
+		"party" : "새누리당",
+		"local" : "대구 수성구을",
+		"website" : "http://www.주호영.com"
+	}, {
+		"id" : 9770852,
+		"name" : "진선미",
+		"email" : null,
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국회운영위원회", "안전행정위원회", "여성가족위원회"]
+			}, {
+				"type" : "대학교",
+				"name" : "성균관대학교",
+				"code" : 4131
+			}, {
+				"type" : "고등학교",
+				"name" : "순창여자고등학교",
+				"code" : 7232
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "비례대표",
+		"website" : null
+	}, {
+		"id" : 9770853,
+		"name" : "진성준",
+		"email" : "hotjjoon@gmail.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "국방위원회"
+			}, {
+				"type" : "고등학교",
+				"name" : "동암고등학교",
+				"code" : 5605
+			}, {
+				"type" : "중학교",
+				"name" : "전주신흥중학교",
+				"code" : 15800
+			}, {
+				"type" : "초등학교",
+				"name" : "전주풍남초등학교",
+				"code" : 3939
+			}, {
+				"type" : "대학교",
+				"name" : "전북대학교",
+				"code" : 4030
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "비례대표",
+		"website" : "http://hotjjoon.com"
+	}, {
+		"id" : 9770462,
+		"name" : "진영",
+		"email" : "ychin21@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "안전행정위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "대학원",
+				"name" : "워싱턴주립대학교 법과대학원",
+				"code" : 12006
+			}, {
+				"type" : "고등학교",
+				"name" : "경기고등학교",
+				"code" : 4385
+			}
+		],
+		"party" : "새누리당",
+		"local" : "서울 용산구",
+		"website" : "http://www.chinyoung.kr/"
+	}, {
+		"id" : 9770920,
+		"name" : "천정배",
+		"email" : "hope_1000@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "국토교통위원회"
+			}, {
+				"type" : "고등학교",
+				"name" : "목포고등학교",
+				"code" : 5765
+			}, {
+				"type" : "대학교",
+				"name" : "한국방송통신대학교",
+				"code" : 4372
+			}, {
+				"type" : "대학원",
+				"name" : "서울대학교 법과대학원",
+				"code" : 13412
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}
+		],
+		"party" : "무소속",
+		"local" : "광주 서구을",
+		"website" : "http://hope_1000.blog.me"
+	}, {
+		"id" : 9770465,
+		"name" : "최경환",
+		"email" : "vision2015@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "정무위원회"
+			}, {
+				"type" : "고등학교",
+				"name" : "대구고등학교",
+				"code" : 4765
+			}, {
+				"type" : "대학교",
+				"name" : "대구한의대학교",
+				"code" : 4094
+			}, {
+				"type" : "대학원",
+				"name" : "위스콘신대학교 대학원",
+				"code" : 12034
+			}, {
+				"type" : "중학교",
+				"name" : "경산중학교",
+				"code" : 13417
+			}, {
+				"type" : "대학교",
+				"name" : "연세대학교",
+				"code" : 4136
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경북 경산시청도군",
+		"website" : "http://www.vision2015.com"
+	}, {
+		"id" : 9770467,
+		"name" : "최규성",
+		"email" : "cks2603@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "농림축산식품해양수산위원회"
+			}, {
+				"type" : "고등학교",
+				"name" : "전주고등학교",
+				"code" : 5674
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "초등학교",
+				"name" : "월촌초등학교",
+				"code" : 3837
+			}, {
+				"type" : "중학교",
+				"name" : "김제중학교",
+				"code" : 15111
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "전북 김제시완주군",
+		"website" : "http://www.ckstar.or.kr"
+	}, {
+		"id" : 9770854,
+		"name" : "최동익",
+		"email" : "cdi4488@nate.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["보건복지위원회", "윤리특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "미시간대학교 대학원",
+				"code" : 11760
+			}, {
+				"type" : "대학교",
+				"name" : "숭실대학교",
+				"code" : 4135
+			}, {
+				"type" : "대학원",
+				"name" : "숭실대학교 대학원",
+				"code" : 10908
+			}, {
+				"type" : "고등학교",
+				"name" : "서울맹학교",
+				"code" : 17035
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "비례대표",
+		"website" : "http://www.hopewings.or.kr"
+	}, {
+		"id" : 9770855,
+		"name" : "최민희",
+		"email" : "choiminhee51@gmail.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국회운영위원회", "미래창조과학방송통신위원회"]
+			}, {
+				"type" : "대학교",
+				"name" : "이화여자대학교",
+				"code" : 4137
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "비례대표",
+		"website" : "http://minheetalk.net/"
+	}, {
+		"id" : 9770856,
+		"name" : "최봉홍",
+		"email" : "bhcport@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "환경노동위원회"
+			}
+		],
+		"party" : "새누리당",
+		"local" : "비례대표",
+		"website" : "http://www.bhcport.or.kr/"
+	}, {
+		"id" : 9770857,
+		"name" : "최원식",
+		"email" : "cws7000@nate.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국회운영위원회", "미래창조과학방송통신위원회", "예산결산특별위원회"]
+			}, {
+				"type" : "중학교",
+				"name" : "부평중학교",
+				"code" : 14490
+			}, {
+				"type" : "대학원",
+				"name" : "서울대학교 대학원",
+				"code" : 10898
+			}, {
+				"type" : "초등학교",
+				"name" : "인천부평남초등학교",
+				"code" : 3492
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "고등학교",
+				"name" : "부평고등학교",
+				"code" : 4824
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "인천 계양구을",
+		"website" : null
+	}, {
+		"id" : 9770472,
+		"name" : "최재성",
+		"email" : "js21@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "기획재정위원회"
+			}, {
+				"type" : "고등학교",
+				"name" : "서울고등학교",
+				"code" : 12971
+			}, {
+				"type" : "대학교",
+				"name" : "동국대학교",
+				"code" : 4120
+			}, {
+				"type" : "대학원",
+				"name" : "동국대학교 대학원",
+				"code" : 10889
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "경기 남양주시갑",
+		"website" : "http://www.js21.net"
+	}, {
+		"id" : 9770884,
+		"name" : "최재천",
+		"email" : "cjc@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "외교통일위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "전남대학교",
+				"code" : 4014
+			}, {
+				"type" : "고등학교",
+				"name" : "광주제일고등학교",
+				"code" : 4884
+			}, {
+				"type" : "대학원",
+				"name" : "전남대학교 대학원",
+				"code" : 11133
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "서울 성동구갑",
+		"website" : "http://www.yourrights.co.kr"
+	}, {
+		"id" : 9770659,
+		"name" : "추미애",
+		"email" : "cma2008@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "산업통상자원위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "한양대학교 대학원",
+				"code" : 10920
+			}, {
+				"type" : "대학원",
+				"name" : "연세대학교 대학원",
+				"code" : 10910
+			}, {
+				"type" : "대학교",
+				"name" : "한양대학교",
+				"code" : 4145
+			}, {
+				"type" : "고등학교",
+				"name" : "경북여자고등학교",
+				"code" : 4745
+			}, {
+				"type" : "중학교",
+				"name" : "구남여자중학교",
+				"code" : 13323
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "서울 광진구을",
+		"website" : "http://www.choomiae.com"
+	}, {
+		"id" : 9770858,
+		"name" : "하태경",
+		"email" : "radiohaha@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "국토교통위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "대학원",
+				"name" : "고려대학교 국제대학원",
+				"code" : 10938
+			}, {
+				"type" : "중학교",
+				"name" : "반송중학교",
+				"code" : 19321
+			}, {
+				"type" : "고등학교",
+				"name" : "브니엘고등학교",
+				"code" : 4704
+			}, {
+				"type" : "초등학교",
+				"name" : "반송초등학교",
+				"code" : 2630
+			}, {
+				"type" : "대학원",
+				"name" : "지린대학교 대학원",
+				"code" : 17066
+			}
+		],
+		"party" : "새누리당",
+		"local" : "부산 해운대구기장군을",
+		"website" : "http://www.hastory.org / 페이스북: taekyungh /               트위터: youngdemos"
+	}, {
+		"id" : 9770691,
+		"name" : "한기호",
+		"email" : "nombo1@na.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국방위원회", "예산결산특별위원회"]
+			}, {
+				"type" : "대학교",
+				"name" : "육군사관학교",
+				"code" : 4371
+			}, {
+				"type" : "중학교",
+				"name" : "김화중학교",
+				"code" : 17552
+			}, {
+				"type" : "고등학교",
+				"name" : "한양공업고등학교",
+				"code" : 4593
+			}, {
+				"type" : "대학원",
+				"name" : "동국대학교 행정대학원",
+				"code" : 10967
+			}
+		],
+		"party" : "새누리당",
+		"local" : "강원 철원군화천군양구군인제군",
+		"website" : "http://www.hankiho.com"
+	}, {
+		"id" : 9770885,
+		"name" : "한명숙",
+		"email" : "happyhan@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "정무위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "이화여자대학교 대학원",
+				"code" : 10912
+			}, {
+				"type" : "고등학교",
+				"name" : "정신여자고등학교",
+				"code" : 4554
+			}, {
+				"type" : "대학교",
+				"name" : "이화여자대학교",
+				"code" : 4137
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "비례대표",
+		"website" : "http://www.hanms.net"
+	}, {
+		"id" : 9770477,
+		"name" : "한선교",
+		"email" : "hansunkyo@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "교육문화체육관광위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "성균관대학교 국가전략대학원",
+				"code" : 17176
+			}, {
+				"type" : "고등학교",
+				"name" : "대일고등학교",
+				"code" : 4447
+			}, {
+				"type" : "대학교",
+				"name" : "성균관대학교",
+				"code" : 4131
+			}, {
+				"type" : "대학원",
+				"name" : "성균관대학교 유학대학원",
+				"code" : 11003
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경기 용인시병",
+		"website" : "http://www.hansunkyo.com"
+	}, {
+		"id" : 9770859,
+		"name" : "한정애",
+		"email" : "jeoung@gmail.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "환경노동위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "부산대학교 환경대학원",
+				"code" : 11097
+			}, {
+				"type" : "대학원",
+				"name" : "노팅엄대학교 대학원",
+				"code" : 12396
+			}, {
+				"type" : "고등학교",
+				"name" : "해운대여자고등학교",
+				"code" : 4732
+			}, {
+				"type" : "대학교",
+				"name" : "부산대학교",
+				"code" : 4018
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "비례대표",
+		"website" : "http://www.한정애.com"
+	}, {
+		"id" : 9770860,
+		"name" : "함진규",
+		"email" : "dreamham7@na.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국토교통위원회", "여성가족위원회", "국민안전혁신특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "고려대학교 대학원",
+				"code" : 10883
+			}, {
+				"type" : "대학교",
+				"name" : "고려대학교",
+				"code" : 4113
+			}, {
+				"type" : "대학원",
+				"name" : "도창초등학교",
+				"code" : 79
+			}, {
+				"type" : "고등학교",
+				"name" : "인하대학교 사범대학 부속고등학교",
+				"code" : 4856
+			}, {
+				"type" : "중학교",
+				"name" : "소래중학교",
+				"code" : 13021
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경기 시흥시갑",
+		"website" : "http://www.dreamham7.co.kr"
+	}, {
+		"id" : 9770862,
+		"name" : "홍문종",
+		"email" : "mjhong830@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "미래창조과학방송통신위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "고려대학교 대학원",
+				"code" : 10883
+			}, {
+				"type" : "대학원",
+				"name" : "스탠퍼드대학교 대학원",
+				"code" : 11898
+			}, {
+				"type" : "대학원",
+				"name" : "고려대학교",
+				"code" : 4113
+			}, {
+				"type" : "대학원",
+				"name" : "하버드대학교 대학원",
+				"code" : 12296
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경기 의정부시을",
+		"website" : "http://blog.naver.com/mjhong2004"
+	}, {
+		"id" : 9770886,
+		"name" : "홍문표",
+		"email" : "mphonglove@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "농림축산식품해양수산위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "한양대학교 행정대학원",
+				"code" : 17728
+			}, {
+				"type" : "대학교",
+				"name" : "건국대학교",
+				"code" : 4111
+			}, {
+				"type" : "고등학교",
+				"name" : "한영고등학교",
+				"code" : 12992
+			}
+		],
+		"party" : "새누리당",
+		"local" : "충남 홍성군예산군",
+		"website" : "http://www.mphong.com"
+	}, {
+		"id" : 9770676,
+		"name" : "홍영표",
+		"email" : "youngvote@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "산업통상자원위원회"
+			}, {
+				"type" : "고등학교",
+				"name" : "이리고등학교",
+				"code" : 5653
+			}, {
+				"type" : "대학교",
+				"name" : "동국대학교",
+				"code" : 4120
+			}, {
+				"type" : "대학원",
+				"name" : "동국대학교 대학원",
+				"code" : 10889
+			}, {
+				"type" : "대학원",
+				"name" : "동국대학교 행정대학원",
+				"code" : 10967
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "인천 부평구을",
+		"website" : "http://dreamyp.or.kr"
+	}, {
+		"id" : 9770863,
+		"name" : "홍의락",
+		"email" : "7882971@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["미래창조과학방송통신위원회", "예산결산특별위원회"]
+			}, {
+				"type" : "고등학교",
+				"name" : "계성고등학교",
+				"code" : 4758
+			}, {
+				"type" : "대학교",
+				"name" : "고려대학교",
+				"code" : 4113
+			}, {
+				"type" : "중학교",
+				"name" : "계성중학교",
+				"code" : 6932
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "비례대표",
+		"website" : "http://blog.daum.net/tkrakrak"
+	}, {
+		"id" : 9770864,
+		"name" : "홍익표",
+		"email" : "peace@peacehong.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["산업통상자원위원회", "여성가족위원회", "예산결산특별위원회"]
+			}, {
+				"type" : "고등학교",
+				"name" : "관악고등학교",
+				"code" : 4414
+			}, {
+				"type" : "대학원",
+				"name" : "한양대학교 대학원",
+				"code" : 10920
+			}, {
+				"type" : "대학교",
+				"name" : "한양대학교",
+				"code" : 4145
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "서울 성동구을",
+		"website" : "http://www.peacehong.net"
+	}, {
+		"id" : 9770665,
+		"name" : "홍일표",
+		"email" : "hip@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["법제사법위원회", "윤리특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "건국대학교 대학원",
+				"code" : 10880
+			}, {
+				"type" : "대학교",
+				"name" : "건국대학교",
+				"code" : 4111
+			}, {
+				"type" : "중학교",
+				"name" : "홍성중학교",
+				"code" : 7538
+			}, {
+				"type" : "고등학교",
+				"name" : "홍성고등학교",
+				"code" : 5569
+			}
+		],
+		"party" : "새누리당",
+		"local" : "인천 남구갑",
+		"website" : "http://www.hip.or.kr"
+	}, {
+		"id" : 9770865,
+		"name" : "홍종학",
+		"email" : "jonghaak@hanmail.net",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "기획재정위원회"
+			}, {
+				"type" : "대학원",
+				"name" : "연세대학교 대학원",
+				"code" : 10910
+			}, {
+				"type" : "초등학교",
+				"name" : "송현초등학교",
+				"code" : 3525
+			}, {
+				"type" : "대학원",
+				"name" : "연세대학교",
+				"code" : 4136
+			}, {
+				"type" : "대학원",
+				"name" : "제물포고등학교",
+				"code" : 4861
+			}, {
+				"type" : "대학원",
+				"name" : "대헌중학교",
+				"code" : 13665
+			}, {
+				"type" : "대학원",
+				"name" : "캘리포니아대학교 샌디에이고캠퍼스 대학원",
+				"code" : 19219
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "비례대표",
+		"website" : "http://www.hongjonghaak.com"
+	}, {
+		"id" : 9770866,
+		"name" : "홍지만",
+		"email" : "jiman0530@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "산업통상자원위원회"
+			}, {
+				"type" : "고등학교",
+				"name" : "덕원고등학교",
+				"code" : 4775
+			}, {
+				"type" : "중학교",
+				"name" : "대륜중학교",
+				"code" : 7032
+			}, {
+				"type" : "초등학교",
+				"name" : "대구동덕초등학교",
+				"code" : 2259
+			}, {
+				"type" : "대학원",
+				"name" : "연세대학교 국제학대학원",
+				"code" : 11019
+			}, {
+				"type" : "대학교",
+				"name" : "연세대학교",
+				"code" : 4136
+			}
+		],
+		"party" : "새누리당",
+		"local" : "대구 달서구갑",
+		"website" : "http://blog.naver.com/atjiman"
+	}, {
+		"id" : 9770913,
+		"name" : "홍철호",
+		"email" : "victorygimpo@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국회운영위원회", "국방위원회", "군인권개선및병영문화혁신특별위원회"]
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경기 김포시",
+		"website" : "http://www.ilovegimpo.org"
+	}, {
+		"id" : 9770669,
+		"name" : "황영철",
+		"email" : "hhhyc@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["국토교통위원회", "군인권개선및병영문화혁신특별위원회"]
+			}, {
+				"type" : "초등학교",
+				"name" : "홍천초등학교",
+				"code" : 332
+			}, {
+				"type" : "중학교",
+				"name" : "홍천중학교",
+				"code" : 14054
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "고등학교",
+				"name" : "홍천고등학교",
+				"code" : 5360
+			}
+		],
+		"party" : "새누리당",
+		"local" : "강원 홍천군횡성군",
+		"website" : "http://blog.naver.com/hhhyc"
+	}, {
+		"id" : 9770273,
+		"name" : "황우여",
+		"email" : "hwangwygrace@hotmail.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "국방위원회"
+			}, {
+				"type" : "대학교",
+				"name" : "서울대학교",
+				"code" : 4021
+			}, {
+				"type" : "초등학교",
+				"name" : "송림초등학교",
+				"code" : 3522
+			}, {
+				"type" : "대학원",
+				"name" : "서울대학교 사법대학원",
+				"code" : 10992
+			}, {
+				"type" : "고등학교",
+				"name" : "제물포고등학교",
+				"code" : 4861
+			}, {
+				"type" : "대학원",
+				"name" : "서울대학교 대학원",
+				"code" : 10898
+			}, {
+				"type" : "고등학교",
+				"name" : "인천중학교",
+				"code" : 7357
+			}
+		],
+		"party" : "새누리당",
+		"local" : "인천 연수구",
+		"website" : "http://www.hwy.pe.kr"
+	}, {
+		"id" : 9770900,
+		"name" : "황인자",
+		"email" : "eqhwang543@naver.com",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : ["안전행정위원회", "여성가족위원회", "윤리특별위원회", "국민안전혁신특별위원회"]
+			}, {
+				"type" : "대학원",
+				"name" : "성균관대학교 국정관리대학원",
+				"code" : 17634
+			}, {
+				"type" : "초등학교",
+				"name" : "서울소의초등학교",
+				"code" : 3062
+			}, {
+				"type" : "중학교",
+				"name" : "정신여자중학교",
+				"code" : 13127
+			}, {
+				"type" : "고등학교",
+				"name" : "정신여자고등학교",
+				"code" : 4554
+			}, {
+				"type" : "대학원",
+				"name" : "서울대학교 대학원",
+				"code" : 10898
+			}, {
+				"type" : "대학교",
+				"name" : "한국외국어대학교",
+				"code" : 4143
+			}
+		],
+		"party" : "새누리당",
+		"local" : "비례대표",
+		"website" : "http://eqhwang543.blog.me"
+	}, {
+		"id" : 9770867,
+		"name" : "황주홍",
+		"email" : "pv21c@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "농림축산식품해양수산위원회"
+			}, {
+				"type" : "고등학교",
+				"name" : "광주제일고등학교",
+				"code" : 4884
+			}, {
+				"type" : "대학원",
+				"name" : "연세대학교 대학원",
+				"code" : 10910
+			}, {
+				"type" : "대학원",
+				"name" : "미주리대학교 대학원",
+				"code" : 11766
+			}, {
+				"type" : "대학교",
+				"name" : "연세대학교",
+				"code" : 4136
+			}
+		],
+		"party" : "새정치민주연합",
+		"local" : "전남 장흥군강진군영암군",
+		"website" : "http://hwangjuhong.com"
+	}, {
+		"id" : 9770484,
+		"name" : "황진하",
+		"email" : "jinhwang@assembly.go.kr",
+		"properties" : [{
+				"type" : "위원회",
+				"name" : "국방위원회"
+			}, {
+				"type" : "고등학교",
+				"name" : "문산고등학교",
+				"code" : 5044
+			}, {
+				"type" : "대학교",
+				"name" : "육군사관학교",
+				"code" : 4371
+			}, {
+				"type" : "대학원",
+				"name" : "서울대학교 행정대학원",
+				"code" : 10994
+			}, {
+				"type" : "중학교",
+				"name" : "문산북중학교",
+				"code" : 13798
+			}, {
+				"type" : "대학원",
+				"name" : "경남대학교 대학원",
+				"code" : 11312
+			}, {
+				"type" : "대학교",
+				"name" : "센트럴미시간대학교",
+				"code" : 8577
+			}, {
+				"type" : "대학원",
+				"name" : "경희대학교 행정대학원",
+				"code" : 10935
+			}, {
+				"type" : "초등학교",
+				"name" : "마정초등학교",
+				"code" : 609
+			}
+		],
+		"party" : "새누리당",
+		"local" : "경기 파주시을",
+		"website" : "http://www.jinhwang.com"
+	}
+]
