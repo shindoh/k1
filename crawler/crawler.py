@@ -30,7 +30,23 @@ def query_naver_people_search(query):
     return item_list
 
 
-def fetch_member_academic_career(member_id, member_name):
+def get_property_type_from_naver_school_type(school_type):
+    school_types = ['초등학교', '중학교', '고등학교', '대학교', '대학원']
+    return school_types[int(school_type)-1]
+
+
+def extract_props_from_naver_school_career(school_career):
+    props = []
+    for data in school_career:
+        props.append({
+            'type': get_property_type_from_naver_school_type(data['school_type']),
+            'name': data['school_name'],
+            'code': int(data['school_code'])
+        })
+    return [dict(t) for t in set([tuple(d.items()) for d in props])]
+
+
+def fetch_member_academic_career_props(member_id, member_name):
     able_querys = ['국회의원 %s' % member_name, '%s 국회의원' % member_name,
                    '%s 의원' % member_name]
     item_list = None
@@ -45,8 +61,8 @@ def fetch_member_academic_career(member_id, member_name):
     item_length = len(item_list)
     print('__debug__ member %d has %d result(s)' % (member_id, item_length))
 
-    matched_data = item_list[0]
-    return matched_data['school']
+    school_career = item_list[0]['school']
+    return extract_props_from_naver_school_career(school_career)
 
 
 def fetch_member_basic_prop(member_id):
